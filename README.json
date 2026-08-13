@@ -1,0 +1,2289 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[C^3 Framework",
+          "description": "] An open-source PyTorch code for crowd counting, which is released.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-30T03:30:40Z",
+            "owner": "gjy3035",
+            "repo": "C-3-Framework",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CCLabeler",
+          "description": "] A web tool for labeling pedestrians in an image, which is released.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-27T03:11:58Z",
+            "owner": "Elin24",
+            "repo": "cclabeler",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[YOLO-CROWD",
+          "description": "] a lightweight crowd counting and face detection model that is based on [YOLO-FaceV2]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-04T13:50:08Z",
+            "owner": "zaki1003",
+            "repo": "YOLO-CROWD",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2019.04] Crowd counting from scratch [Link",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-27T06:53:34Z",
+            "owner": "CommissarMa",
+            "repo": "Crowd_counting_from_scratch",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2017.11] Counting Crowds and Lines with AI [Link1",
+          "description": "] [Link2] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-04-27T22:20:50Z",
+            "owner": "dimroc",
+            "repo": "count",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Technical blog"
+    },
+    {
+      "description": "Crowd Analysis, Crowd Localization, Video Surveillance, Dense/Small/Tiny Object Detection",
+      "items": [],
+      "title": "Related Tasks"
+    },
+    {
+      "description": "Please refer to this page.",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "Note that all unpublished arXiv papers are not included in the leaderboard of performance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T05:42:36Z",
+            "owner": "songrise",
+            "repo": "CLIP-Count",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-17T08:34:22Z",
+            "owner": "Yiming-M",
+            "repo": "CLIP-EBC",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "arXiv papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[MDC] Video Individual Counting for Moving Drones (ICCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T05:04:31Z",
+            "owner": "fyw1999",
+            "repo": "MovingDroneCrowd",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[T2ICount] T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-09T15:10:40Z",
+            "owner": "cha15yq",
+            "repo": "T2ICount",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[E-MAC] Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (ICLR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T13:19:55Z",
+            "owner": "mast1ren",
+            "repo": "E-MAC",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[FLE] Free Lunch Enhancements for Multi-modal Crowd Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T06:15:06Z",
+            "owner": "HenryCilence",
+            "repo": "Free-Lunch-Multimodal-Counting",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[P2R] Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T10:11:37Z",
+            "owner": "Elin24",
+            "repo": "P2RLoss",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TMTB] Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T03:08:04Z",
+            "owner": "syhien",
+            "repo": "taste_more_taste_better",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PML] Proximal Mapping Loss: Understanding Loss Functions in Crowd Counting & Localization (ICLR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T10:24:34Z",
+            "owner": "Elin24",
+            "repo": "pml",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CrowdDiff] CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-02T20:23:47Z",
+            "owner": "dylran",
+            "repo": "crowddiff",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PseCo] Point, Segment and Count: A Generalized Framework for Object Counting [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-12T17:01:41Z",
+            "owner": "Hzzone",
+            "repo": "PseCo",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MPCount] Single Domain Generalization for Crowd Counting (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-31T18:01:05Z",
+            "owner": "Shimmer93",
+            "repo": "MPCount",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[APGCC] Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (ECCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-31T08:54:39Z",
+            "owner": "AaronCIH",
+            "repo": "APGCC",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SAM] Training-free Object Counting with Prompts (WACV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-14T05:17:46Z",
+            "owner": "shizenglin",
+            "repo": "training-free-object-counter",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Gramformer] Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (AAAI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-11T07:50:55Z",
+            "owner": "LoraLinH",
+            "repo": "Gramformer",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SVCW] Multi-view People Detection in Large Scenes via Supervised View-wise Contribution Weighting (AAAI)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T14:47:27Z",
+            "owner": "zqyq",
+            "repo": "Multi-view-People-Detection-in-Large-Scenes-via-Supervised-View-wise-Contribution-Weighting",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[BM] Multi-modal Crowd Counting via a Broker Modality (ECCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T08:53:21Z",
+            "owner": "HenryCilence",
+            "repo": "Broker-Modality-Crowd-Counting",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[WSCC_TAF] Weakly-Supervised Crowd Counting with Token Attention and Fusion: A Simple and Effective Baseline (ICASSP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-23T02:21:39Z",
+            "owner": "WangyiNTU",
+            "repo": "WSCC_TAF",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PBC] A Fixed-Point Approach to Unified Prompt-Based Counting (AAAI)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-30T13:11:28Z",
+            "owner": "Elin24",
+            "repo": "fixedpoint_prompt_counting",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SRN] Glance To Count: Learning To Rank With Anchors for Weakly-Supervised Crowd Counting (WACV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-03T13:49:12Z",
+            "owner": "pandaszzzzz",
+            "repo": "CCRanking",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ME] Multi-modal Crowd Counting via Modal Emulation (BMVC)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-28T09:10:43Z",
+            "owner": "Mr-Monday",
+            "repo": "Multi-modal-Crowd-Counting-via-Modal-Emulation",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[UNIC] Uncertainty-aware Continuous Implicit Neural Representations for Remote Sensing Object Counting (AISTATS) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T05:34:38Z",
+            "owner": "SiyuanXu-tamu",
+            "repo": "UNIC",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Focus for Free in Density-Based Counting (IJCV) [paper",
+          "description": "][code] (extension of CFF)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-30T19:17:27Z",
+            "owner": "shizenglin",
+            "repo": "Counting-with-Focus-for-Free",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MRC-Crowd] Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes (T-CSVT) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-02T19:49:01Z",
+            "owner": "cha15yq",
+            "repo": "MRC-Crowd",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MDKNet] Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (T-NNLS) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-15T06:17:42Z",
+            "owner": "csguomy",
+            "repo": "MDKNet",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[DDC] Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-02T20:23:47Z",
+            "owner": "dylran",
+            "repo": "crowddiff",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SAFECount] Few-Shot Object Counting With Similarity-Aware Feature Enhancement (WACV)[paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T13:11:10Z",
+            "owner": "zhiyuanyou",
+            "repo": "SAFECount",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CrowdCLIP] CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-28T13:49:40Z",
+            "owner": "dk-liang",
+            "repo": "CrowdCLIP",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PET] Point-Query Quadtree for Crowd Counting, Localization, and More (ICCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-11T08:20:01Z",
+            "owner": "cxliu0",
+            "repo": "PET",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IOCFormer] Indiscernible Object Counting in Underwater Scenes (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-26T07:36:44Z",
+            "owner": "GuoleiSun",
+            "repo": "Indiscernible-Object-Counting",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[STEERER] STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (ICCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-01T05:13:22Z",
+            "owner": "taohan10200",
+            "repo": "STEERER",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ZSC] Zero-shot Object Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-23T18:02:53Z",
+            "owner": "cvlab-stonybrook",
+            "repo": "zero-shot-counting",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DGCC] Domain-general Crowd Counting in Unseen Scenarios (AAAI)[paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-08T12:47:34Z",
+            "owner": "ZPDu",
+            "repo": "Domain-general-Crowd-Counting-in-Unseen-Scenarios",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Crowd-Hat] Boosting Detection in Crowd Analysis via Underutilized Output Features (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-19T06:38:18Z",
+            "owner": "wskingdom",
+            "repo": "Crowd-Hat",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[OT-M] Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-19T07:08:54Z",
+            "owner": "Elin24",
+            "repo": "OT-M",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CHS-Net] Cross-head Supervision for Crowd Counting with Noisy Annotations (ICASSP)[paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-18T06:29:07Z",
+            "owner": "RaccoonDML",
+            "repo": "CHSNet",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AWCC-Net] Counting Crowds in Bad Weather (ICCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-21T13:01:18Z",
+            "owner": "awccnet",
+            "repo": "AWCC-Net",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MSSRM] Super-Resolution Information Enhancement For Crowd Counting (ICASSP)[paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-23T04:26:40Z",
+            "owner": "PRIS-CV",
+            "repo": "MSSRM",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CU] Calibrating Uncertainty for Semi-Supervised Crowd Counting (ICCV)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-02T06:35:11Z",
+            "owner": "superlc1995",
+            "repo": "Calibrating_count",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[HMoDE] Redesigning Multi-Scale Neural Network for Crowd Counting (TIP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-02T19:52:17Z",
+            "owner": "ZPDu",
+            "repo": "Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[STGN] Spatial-Temporal Graph Network for Video Crowd Counting (T-CSVT) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-04T03:29:30Z",
+            "owner": "wuzhe71",
+            "repo": "STGN",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PML_Loss] Progressive Multi-resolution Loss for Crowd Counting (T-CSVT) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-25T07:52:08Z",
+            "owner": "streamer-AP",
+            "repo": "PML_Loss",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AGK] Counting manatee aggregations using deep neural networks and Anisotropic Gaussian Kernel (Scientific Reports-Nature) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-13T02:36:19Z",
+            "owner": "yeyimilk",
+            "repo": "deep-learning-for-manatee-counting",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[EoCo] A Unified Object Counting Network with Object Occupation Prior (T-CSVT) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T06:44:26Z",
+            "owner": "Tanyjiang",
+            "repo": "EOCO",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MTCP] Multi-Task Credible Pseudo-Label Learning for Semi-supervised Crowd Counting (T-NNLS) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-03T02:16:09Z",
+            "owner": "ljq2000",
+            "repo": "MTCP",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[MAN] Boosting Crowd Counting via Multifaceted Attention (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-10T09:54:35Z",
+            "owner": "LoraLinH",
+            "repo": "Boosting-Crowd-Counting-via-Multifaceted-Attention",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CLTR] An End-to-End Transformer Model for Crowd Localization (ECCV) [paper",
+          "description": "] [code][project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-20T08:49:19Z",
+            "owner": "dk-liang",
+            "repo": "CLTR",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[BMNet] Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (CVPR)[paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-12T16:50:40Z",
+            "owner": "flyinglynx",
+            "repo": "Bilinear-Matching-Network",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[GauNet] Rethinking Spatial Invariance of Convolutional Networks for Object Counting (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-21T04:29:06Z",
+            "owner": "zhiqic",
+            "repo": "Rethinking-Counting",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DR.VIC] DR.VIC: Decomposition and Reasoning for Video Individual Counting (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-12T13:39:39Z",
+            "owner": "taohan10200",
+            "repo": "DRNet",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MSDTrans] RGB-T Multi-Modal Crowd Counting Based on Transformer (BMVC)[paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-09T03:01:49Z",
+            "owner": "liuzywen",
+            "repo": "RGBTCC",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CSS-CCNN] Completely Self-Supervised Crowd Counting via Distribution Matching (ECCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-29T13:17:47Z",
+            "owner": "val-iisc",
+            "repo": "css-ccnn",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CSCA] Spatio-channel Attention Blocks for Cross-modal Crowd Counting (ACCV) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-04T11:33:28Z",
+            "owner": "AIM-SKKU",
+            "repo": "CSCA",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ChfL] Crowd Counting in the Frequency Domain (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T10:30:59Z",
+            "owner": "wbshu",
+            "repo": "Crowd_Counting_in_the_Frequency_Domain",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IS-Count] IS-Count: Large-Scale Object Counting from Satellite Images with Covariate-Based Importance Sampling (AAAI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-03T21:15:00Z",
+            "owner": "sustainlab-group",
+            "repo": "IS-Count",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DACount] Semi-supervised-Crowd-Counting-via-Density-Agency (ACM MM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-23T03:59:07Z",
+            "owner": "LoraLinH",
+            "repo": "Semi-supervised-Crowd-Counting-via-Density-Agency",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MPS] Multiscale Crowd Counting and Localization By Multitask Point Supervision (ICASSP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-03T00:21:48Z",
+            "owner": "RCVLab-AiimLab",
+            "repo": "crowd_counting",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PAP] Harnessing Perceptual Adversarial Patches for Crowd Counting (ACM CCS) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-28T02:33:44Z",
+            "owner": "shunchang-liu",
+            "repo": "PAP-Pytorch",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DMBA] Backdoor Attacks on Crowd Counting (ACM MM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-10T05:35:42Z",
+            "owner": "Nathangitlab",
+            "repo": "Backdoor-Attacks-on-Crowd-Counting",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CDCC] Leveraging Self-Supervision for Cross-Domain Crowd Counting (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-04T02:52:39Z",
+            "owner": "weizheliu",
+            "repo": "Cross-Domain-Crowd-Counting",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[FusionCount] FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion (ICIP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-25T09:18:47Z",
+            "owner": "Yiming-M",
+            "repo": "FusionCount",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[BLA] Bi-level Alignment for Cross-Domain Crowd Counting (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-15T02:30:20Z",
+            "owner": "Yankeegsj",
+            "repo": "BLA",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[LoViTCrowd] Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (BMVC) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-24T17:12:24Z",
+            "owner": "nguyen1312",
+            "repo": "LoViTCrowd",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TAFNet] TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (ISCAS) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-25T09:18:17Z",
+            "owner": "TANGHAIHAN",
+            "repo": "TAFNet",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[FIDTM] Focal Inverse Distance Transform Maps for Crowd Localization (TMM)[paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-30T03:32:30Z",
+            "owner": "dk-liang",
+            "repo": "FIDTM",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TransCrowd] TransCrowd: Weakly-Supervised Crowd Counting with Transformer (Science China Information Sciences) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-15T09:33:11Z",
+            "owner": "dk-liang",
+            "repo": "TransCrowd",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[GNA] Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (TIP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T00:49:51Z",
+            "owner": "HopLee6",
+            "repo": "VSCrowd-Dataset",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DEFNet] DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (TITS) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-10T04:46:34Z",
+            "owner": "panyi95",
+            "repo": "DEFNet",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PSGCNet] PSGCNet: A Pyramidal Scale and Global Context Guided Network for Dense Object Counting in Remote Sensing Images (TGRS) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-13T15:23:46Z",
+            "owner": "gaoguangshuai",
+            "repo": "PSGCNet",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[P2PNet] Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (ICCV(Oral)) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T10:24:57Z",
+            "owner": "TencentYoutuResearch",
+            "repo": "CrowdCounting-P2PNet",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[STANet] Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-07-25T10:13:19Z",
+            "owner": "VisDrone",
+            "repo": "DroneCrowd",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CFOCNet] Class-agnostic Few-shot Object Counting (WACV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-22T09:14:17Z",
+            "owner": "SinicaGroup",
+            "repo": "Class-agnostic-Few-shot-Object-Counting",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SASNet] To Choose or to Fuse? Scale Selection for Crowd Counting (AAAI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-29T07:13:17Z",
+            "owner": "TencentYoutuResearch",
+            "repo": "CrowdCounting-SASNet",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[RGBT-CC] Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (CVPR) [paper",
+          "description": "][code][Project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-23T07:04:27Z",
+            "owner": "chen-judge",
+            "repo": "RGBTCrowdCounting",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CFANet] Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (WACV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-31T08:46:23Z",
+            "owner": "rongliangzi",
+            "repo": "MARUNet",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DSNet] Dense Scale Network for Crowd Counting (ICMR) [paper",
+          "description": "][unofficial code: PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-21T01:57:34Z",
+            "owner": "rongliangzi",
+            "repo": "Dense-Scale-Network-for-Crowd-Counting",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[UEPNet] Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-25T03:52:40Z",
+            "owner": "TencentYoutuResearch",
+            "repo": "CrowdCounting-UEPNet",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SCALNet] Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization (ICMEW) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-26T01:07:53Z",
+            "owner": "WangyiNTU",
+            "repo": "SCALNet",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DKPNet] Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-09T10:21:13Z",
+            "owner": "Zhaoyi-Yan",
+            "repo": "DKPNet",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SUA] Spatial Uncertainty-Aware Semi-Supervised Crowd Counting (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-18T09:57:24Z",
+            "owner": "smallmax00",
+            "repo": "SUA_crowd_counting",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[BinLoss] Wisdom of (Binned) Crowds: A Bayesian Stratification Paradigm for Crowd Counting (ACM MM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-17T05:42:37Z",
+            "owner": "atmacvit",
+            "repo": "bincrowd",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TopoCount] Localization in the Crowd with Topological Constraints (AAAI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-11T00:49:18Z",
+            "owner": "ShahiraAbousamra",
+            "repo": "TopoCount",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[APAM] Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting (ACM MM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-03T08:31:07Z",
+            "owner": "harrywuhust2022",
+            "repo": "Adv-Crowd-analysis",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[C2MoT] Dynamic Momentum Adaptation for Zero-Shot Cross-Domain Crowd Counting (ACM MM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-10T15:26:58Z",
+            "owner": "jimmy-dq",
+            "repo": "C2MOT",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[EDIREC-Net] Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (AAAI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-13T05:03:03Z",
+            "owner": "GehenHe",
+            "repo": "EDIREC-Net",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[EPF] Counting People by Estimating People Flows (TPAMI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-04T07:12:58Z",
+            "owner": "weizheliu",
+            "repo": "People-Flows",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PSODC] A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (TIP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T12:42:14Z",
+            "owner": "WangyiNTU",
+            "repo": "Point-supervised-crowd-detection",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AutoScale] AutoScale: Learning to Scale for Crowd Counting (IJCV) [paper",
+          "description": "] (extension of L2SM)[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-07T02:52:23Z",
+            "owner": "dk-liang",
+            "repo": "AutoScale",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DPDNet] Locating and Counting Heads in Crowds With a Depth Prior (T-PAMI) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-25T14:20:23Z",
+            "owner": "svip-lab",
+            "repo": "Locating_Counting_with_a_Depth_Prior",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DSACA] Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting (SPL) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-15T12:37:46Z",
+            "owner": "PRIS-CV",
+            "repo": "DSACA",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[D2C] Decoupled Two-Stage Crowd Counting and Beyond (TIP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-18T02:49:45Z",
+            "owner": "hustaia",
+            "repo": "Decoupled_Two-stage_Counting",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NLT] Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting (T-NNLS) [paper",
+          "description": "] [code]]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-02T05:35:49Z",
+            "owner": "taohan10200",
+            "repo": "NLT",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DCANet] Towards Learning Multi-domain Crowd Counting (T-CSVT) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-06T04:31:34Z",
+            "owner": "Zhaoyi-Yan",
+            "repo": "DCANet",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AdaCrowd] AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (TMM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-24T20:15:13Z",
+            "owner": "maheshkkumar",
+            "repo": "adacrowd",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[DM-Count] Distribution Matching for Crowd Counting (NeurIPS) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-27T18:18:09Z",
+            "owner": "cvlab-stonybrook",
+            "repo": "DM-Count",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[M-SFANet] Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting (ICPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-31T12:34:08Z",
+            "owner": "Pongpisit-Thanasutives",
+            "repo": "Variations-of-SFANet-for-Crowd-Counting",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Stacked-Pool] Stacked Pooling For Boosting Scale Invariance Of Crowd Counting (ICASSP) [paper",
+          "description": "] [arxiv] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-20T05:25:39Z",
+            "owner": "siyuhuang",
+            "repo": "crowdcount-stackpool",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AMRNet] Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting (ECCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-08T13:42:40Z",
+            "owner": "xiyang1012",
+            "repo": "Local-Crowd-Counting",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[EPF] Estimating People Flows to Better Count Them in Crowded Scenes (ECCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-04T07:12:58Z",
+            "owner": "weizheliu",
+            "repo": "People-Flows",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SKT] Efficient Crowd Counting via Structured Knowledge Transfer (ACM MM(oral)) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-26T12:15:49Z",
+            "owner": "HCPLab-SYSU",
+            "repo": "SKT",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ASNet] Attention Scaling for Crowd Counting (CVPR) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-05T05:48:22Z",
+            "owner": "laridzhang",
+            "repo": "ASNet",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DeepCount] Deep Density-aware Count Regressor (ECAI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-15T04:44:52Z",
+            "owner": "GeorgeChenZJ",
+            "repo": "deepcount",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[LibraNet] Weighting Counts: Sequential Crowd Counting by Reinforcement Learning (ECCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-02T06:15:57Z",
+            "owner": "poppinace",
+            "repo": "libranet",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[FSSA] Few-Shot Scene Adaptive Crowd Counting Using Meta-Learning (WACV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-18T07:17:13Z",
+            "owner": "maheshkkumar",
+            "repo": "fscc",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[EDC] Learning Error-Driven Curriculum for Crowd Counting (ICPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-15T05:04:19Z",
+            "owner": "FDU-VTS",
+            "repo": "TutorNet_Crowd_Counting",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[LSC-CNN] Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (T-PAMI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T02:09:50Z",
+            "owner": "val-iisc",
+            "repo": "lsc-cnn",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MobileCount] MobileCount: An Efficient Encoder-Decoder Framework for Real-Time Crowd Counting (Neurocomputing) [conference paper",
+          "description": "] [journal paper] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-17T13:36:12Z",
+            "owner": "ChenyuGAO-CS",
+            "repo": "MobileCount",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[KDMG] Kernel-based Density Map Generation for Dense Object Counting (T-PAMI) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-08T06:42:34Z",
+            "owner": "jia-wan",
+            "repo": "KDMG_Counting",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CRNet] Crowd Counting via Cross-stage Refinement Networks (TIP) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-05T09:22:32Z",
+            "owner": "yongtuoliu",
+            "repo": "Crowd-Counting-via-Cross-stage-Refinement-Networks",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DCL] Density-aware Curriculum Learning for Crowd Counting (TCYB) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-02T06:36:26Z",
+            "owner": "Elin24",
+            "repo": "DCL-CrowdCounting",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DENet] DENet: A Universal Network for Counting Crowd with Varying Densities and Scales (TMM) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-03T02:06:22Z",
+            "owner": "liuleiBUAA",
+            "repo": "DENet",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[BL] Bayesian Loss for Crowd Count Estimation with Point Supervision (ICCV(oral)) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-04T05:38:38Z",
+            "owner": "zhiheng-ma",
+            "repo": "Bayesian-Crowd-Counting",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CAN] Context-Aware Crowd Counting (CVPR) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-06T15:41:32Z",
+            "owner": "weizheliu",
+            "repo": "Context-Aware-Crowd-Counting",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[S-DCNet] From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:20:22Z",
+            "owner": "xhp-hust-2018-2011",
+            "repo": "S-DCNet",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CFF] Counting with Focus for Free (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-30T19:17:27Z",
+            "owner": "shizenglin",
+            "repo": "Counting-with-Focus-for-Free",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[DSSINet] Crowd Counting with Deep Structured Scale Integration Network (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-29T15:29:49Z",
+            "owner": "Legion56",
+            "repo": "Counting-ICCV-DSSINet",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PGCNet] Perspective-Guided Convolution Networks for Crowd Counting (ICCV) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-06T02:43:42Z",
+            "owner": "Zhaoyi-Yan",
+            "repo": "PGCNet",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[RDNet] Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-23T10:14:31Z",
+            "owner": "svip-lab",
+            "repo": "RGBD-Counting",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CODA] CODA: Counting Objects via Scale-aware Adversarial Density Adaption (ICME) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-11T09:11:42Z",
+            "owner": "Willy0919",
+            "repo": "CODA",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[RRSP] Residual Regression with Semantic Prior for Crowd Counting (CVPR) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-22T02:31:54Z",
+            "owner": "jia-wan",
+            "repo": "ResidualRegression-pytorch",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[PCC-Net] PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (T-CSVT) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-12T11:12:23Z",
+            "owner": "gjy3035",
+            "repo": "PCC-Net",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SCAR] SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (Neurocomputing) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-29T11:26:06Z",
+            "owner": "gjy3035",
+            "repo": "SCAR",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CSR] CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (CVPR) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-19T19:48:43Z",
+            "owner": "leeyeehoo",
+            "repo": "CSRNet-pytorch",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[LCFCN] Where are the Blobs: Counting by Localization with Point Supervision (ECCV) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-17T13:57:21Z",
+            "owner": "ServiceNow",
+            "repo": "LCFCN",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SaCNN] Crowd counting via scale-adaptive convolutional neural network (WACV) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-06-19T12:50:22Z",
+            "owner": "miao0913",
+            "repo": "SaCNN-CrowdCounting-Tencent_Youtu",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[L2R] Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (CVPR) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-19T14:29:07Z",
+            "owner": "xialeiliu",
+            "repo": "CrowdCountingCVPR18",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CAC] Class-Agnostic Counting (ACCV) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-17T23:41:45Z",
+            "owner": "erikalu",
+            "repo": "class-agnostic-counting",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[D-ConvNet] Crowd Counting with Deep Negative Correlation Learning (CVPR) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-12-23T08:21:43Z",
+            "owner": "shizenglin",
+            "repo": "Deep-NCL",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AMDCN] An Aggregated Multicolumn Dilated Convolution Network for Perspective-Free Counting (CVPRW) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-11-29T06:13:25Z",
+            "owner": "diptodip",
+            "repo": "counting",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ACSCP] Crowd Counting via Adversarial Cross-Scale Consistency Pursuit (CVPR) [paper",
+          "description": "] [unofficial code: PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-22T08:13:28Z",
+            "owner": "RQuispeC",
+            "repo": "pytorch-ACSCP",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[DA-Net] DA-Net: Learning the Fine-Grained Density Distribution With Deformation Aggregation Network (IEEE Access) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-28T07:22:20Z",
+            "owner": "BigTeacher-777",
+            "repo": "DA-Net-Crowd-Counting",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NetVLAD] Multiscale Multitask Deep NetVLAD for Crowd Counting (TII) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-10-23T07:05:10Z",
+            "owner": "shizenglin",
+            "repo": "Multitask-Multiscale-Deep-NetVLAD",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Journal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CMTL] CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (AVSS) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-23T12:20:27Z",
+            "owner": "svishwa",
+            "repo": "crowdcount-cascaded-mtl",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Switching CNN] Switching Convolutional Neural Network for Crowd Counting (CVPR) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-06T05:02:49Z",
+            "owner": "val-iisc",
+            "repo": "crowd-counting-scnn",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MSCNN] Multi-scale Convolution Neural Networks for Crowd Counting (ICIP) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-05T04:38:11Z",
+            "owner": "Ling-Bao",
+            "repo": "mscnn",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2016"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CrowdNet] CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (ACMMM) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-12-25T04:23:53Z",
+            "owner": "davideverona",
+            "repo": "deep-crowd-counting_crowdnet",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Hydra-CNN] Towards perspective-free object counting with deep learning (ECCV) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-10T09:47:39Z",
+            "owner": "gramuah",
+            "repo": "ccnn",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MCNN] Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (CVPR) [paper",
+          "description": "] [unofficial code: TensorFlow PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-22T09:13:28Z",
+            "owner": "aditya-vora",
+            "repo": "crowd_counting_tensorflow",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Conference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2015"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2014"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2013"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2012"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2011"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2010"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2008"
+    },
+    {
+      "description": "The section is being continually updated. Note that some values have superscript, which indicates their source.",
+      "items": [],
+      "title": "Leaderboard"
+    },
+    {
+      "description": "Please refer to this page.",
+      "items": [],
+      "title": "NWPU"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ShanghaiTech Part A"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ShanghaiTech Part B"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JHU-CROWD++"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UCF-QNRF"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UCF_CC_50"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WorldExpo'10"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UCSD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mall"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:25:25.924Z",
+    "original_repository": "gjy3035/Awesome-Crowd-Counting",
+    "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Crowd-Counting",
+    "enhanced_repository_description": null,
+    "title": "Awesome Crowd Counting with stars"
+  }
+}
