@@ -46,7 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### GT generation
 
-* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 734 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 375 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
+* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 734 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
 
 ### Related Tasks
 
@@ -503,7 +503,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Journal
 
-* <a name="PCC-Net"></a> **\[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) \[[paper](https://arxiv.org/abs/1905.10085)] \[[code](https://github.com/gjy3035/PCC-Net) ⭐ 272 | 🐛 18 | 🌐 Python | 📅 2020-03-12]![GitHub stars](http://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github\&label=Stars)
+* <a name="PCC-Net"></a> **\[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) \[[paper](https://arxiv.org/abs/1905.10085)] \[[code](https://github.com/gjy3035/PCC-Net) ⭐ 256 | 🐛 18 | 🌐 Python | 📅 2020-03-12]![GitHub stars](http://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github\&label=Stars)
 * <a name="SCAR"></a> **\[SCAR]** SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (**Neurocomputing**) \[[paper](https://arxiv.org/abs/1908.03716)]\[[code](https://github.com/gjy3035/SCAR) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2020-02-29]![GitHub stars](http://img.shields.io/github/stars/gjy3035/SCAR.svg?logo=github\&label=Stars)
 * <a name="D-ConvNet"></a> **\[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8850209)]\(extension of [D-ConvNet](#D-ConvNet))\[[Project](https://mmcheng.net/dncl/)]
 * <a name="SL2R"></a>  **\[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) \[[paper](https://arxiv.org/abs/1902.06285)]\(extension of [L2R](#L2R))
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

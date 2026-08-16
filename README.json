@@ -1909,7 +1909,7 @@
             "last_commit": "2020-03-12T11:12:23Z",
             "owner": "gjy3035",
             "repo": "PCC-Net",
-            "stars": 272
+            "stars": 256
           }
         },
         {
@@ -2279,7 +2279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:01:27.770Z",
+    "last_updated": "2026-08-16T20:01:22.118Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
     "enhanced_repository": "enhansome/enhansome-Awesome-Crowd-Counting",
