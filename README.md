@@ -296,7 +296,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 * <a name="FIDTM"></a>**\[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)\[[paper](https://ieeexplore.ieee.org/document/9875106)] \[[code](https://github.com/dk-liang/FIDTM) ⭐ 199 | 🐛 9 | 🌐 Python | 📅 2023-03-30]![GitHub stars](http://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github\&label=Stars) \[[project](https://dk-liang.github.io/FIDTM/)]
 * <a name="TransCrowd"></a>**\[TransCrowd]** TransCrowd: Weakly-Supervised Crowd Counting with Transformer (**Science China Information Sciences**) \[[paper](https://arxiv.org/abs/2104.09116)] \[[code](https://github.com/dk-liang/TransCrowd) ⭐ 114 | 🐛 1 | 🌐 Python | 📅 2023-06-15]![GitHub stars](http://img.shields.io/github/stars/dk-liang/TransCrowd.svg?logo=github\&label=Stars)
-* <a name="GNA"></a>**\[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TIP**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9893023/)]\[[code](https://github.com/HopLee6/VSCrowd-Dataset) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2025-12-09]![GitHub stars](http://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github\&label=Stars)
+* <a name="GNA"></a>**\[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TIP**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9893023/)]\[[code](https://github.com/HopLee6/VSCrowd-Dataset) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-12-09]![GitHub stars](http://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github\&label=Stars)
 * <a name="DEFNet"></a>**\[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9889192)]\[[code](https://github.com/panyi95/DEFNet) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2025-04-10]![GitHub stars](http://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github\&label=Stars)
 * <a name="PSGCNet"></a> **\[PSGCNet]** PSGCNet: A Pyramidal Scale and Global Context Guided Network for Dense Object Counting in Remote Sensing Images (**TGRS**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9720990)]\[[code](https://github.com/gaoguangshuai/psgcnet) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2022-06-13]![GitHub stars](http://img.shields.io/github/stars/gaoguangshuai/psgcnet.svg?logo=github\&label=Stars)
 * <a name="MVMS"></a>**\[MVMS]** Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes (**IJCV**) \[[paper](https://arxiv.org/abs/2012.00946)]\(extension of [MVMS](#MVMS))
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

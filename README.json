@@ -1102,7 +1102,7 @@
             "last_commit": "2025-12-09T00:49:51Z",
             "owner": "HopLee6",
             "repo": "VSCrowd-Dataset",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -2279,7 +2279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:01:22.118Z",
+    "last_updated": "2026-08-17T20:10:50.170Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
     "enhanced_repository": "enhansome/enhansome-Awesome-Crowd-Counting",
