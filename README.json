@@ -740,20 +740,6 @@
         },
         {
           "node_type": "item",
-          "title": "[AGK] Counting manatee aggregations using deep neural networks and Anisotropic Gaussian Kernel (Scientific Reports-Nature) [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-13T02:36:19Z",
-            "owner": "yeyimilk",
-            "repo": "deep-learning-for-manatee-counting",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[EoCo] A Unified Object Counting Network with Object Occupation Prior (T-CSVT) [paper",
           "description": "][code]",
           "children": [],
@@ -779,6 +765,12 @@
             "repo": "MTCP",
             "stars": 3
           }
+        },
+        {
+          "node_type": "item",
+          "title": "[AGK] Counting manatee aggregations using deep neural networks and Anisotropic Gaussian Kernel (Scientific Reports-Nature) [paper",
+          "description": "] [code]",
+          "children": []
         }
       ],
       "title": "Journal"
@@ -1522,7 +1514,7 @@
             "last_commit": "2022-06-27T18:18:09Z",
             "owner": "cvlab-stonybrook",
             "repo": "DM-Count",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -1791,7 +1783,7 @@
             "last_commit": "2020-01-06T15:41:32Z",
             "owner": "weizheliu",
             "repo": "Context-Aware-Crowd-Counting",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -2279,7 +2271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:10:50.170Z",
+    "last_updated": "2026-08-18T20:06:23.336Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
     "enhanced_repository": "enhansome/enhansome-Awesome-Crowd-Counting",
