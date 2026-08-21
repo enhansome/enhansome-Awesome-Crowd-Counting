@@ -35,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 733 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
 * \[[CCLabeler](https://github.com/Elin24/cclabeler) ⭐ 122 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-27] A web tool for labeling pedestrians in an image, which is released. ![GitHub stars](http://img.shields.io/github/stars/Elin24/cclabeler.svg?logo=github\&label=Stars)
-* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 81 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 238 | 🐛 47 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
+* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 81 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 239 | 🐛 47 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
 
 ### Technical blog
 
@@ -211,7 +211,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 * <a name="CrowdCLIP"></a>**\[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)\[[paper](https://arxiv.org/abs/2304.04231)]\[[code](https://github.com/dk-liang/CrowdCLIP) ⭐ 92 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-07-28]
 * <a name="PET"></a>**\[PET]** Point-Query Quadtree for Crowd Counting, Localization, and More (**ICCV**)\[[paper](https://arxiv.org/abs/2308.13814)]\[[code](https://github.com/cxliu0/PET) ⭐ 88 | 🐛 8 | 🌐 Python | 📅 2025-04-11]![GitHub stars](http://img.shields.io/github/stars/cxliu0/PET.svg?logo=github\&label=Stars)
 * <a name="IOCFormer"></a>**\[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)\[[paper](http://arxiv.org/abs/2304.11677)]\[[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting) ⭐ 76 | 🐛 3 | 📅 2026-07-26]![GitHub stars](http://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github\&label=Stars)
-* <a name="PET"></a>**\[STEERER]** STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (**ICCV**)\[[paper](https://arxiv.org/abs/2308.10468)]\[[code](https://github.com/taohan10200/STEERER) ⭐ 63 | 🐛 7 | 🌐 Python | 📅 2024-03-01]![GitHub stars](http://img.shields.io/github/stars/taohan10200/STEERER.svg?logo=github\&label=Stars)
+* <a name="PET"></a>**\[STEERER]** STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (**ICCV**)\[[paper](https://arxiv.org/abs/2308.10468)]\[[code](https://github.com/taohan10200/STEERER) ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2024-03-01]![GitHub stars](http://img.shields.io/github/stars/taohan10200/STEERER.svg?logo=github\&label=Stars)
 * <a name="ZSC"></a>**\[ZSC]** Zero-shot Object Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2303.02001)]\[[code](https://github.com/cvlab-stonybrook/zero-shot-counting) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2025-03-23]![GitHub stars](http://img.shields.io/github/stars/cvlab-stonybrook/zero-shot-counting.svg?logo=github\&label=Stars)
 * <a name="DGCC"></a>**\[DGCC]** Domain-general Crowd Counting in Unseen Scenarios (**AAAI**)\[[paper](https://arxiv.org/abs/2212.02573)] \[[code](https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2025-03-08]![GitHub stars](http://img.shields.io/github/stars/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios.svg?logo=github\&label=Stars)
 * <a name="Crowd-Hat"></a>**\[Crowd-Hat]** Boosting Detection in Crowd Analysis via Underutilized Output Features (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Boosting_Detection_in_Crowd_Analysis_via_Underutilized_Output_Features_CVPR_2023_paper.pdf)]\[[code](https://github.com/wskingdom/Crowd-Hat) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2024-04-19]![GitHub stars](http://img.shields.io/github/stars/wskingdom/Crowd-Hat.svg?logo=github\&label=Stars)
@@ -503,7 +503,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Journal
 
-* <a name="PCC-Net"></a> **\[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) \[[paper](https://arxiv.org/abs/1905.10085)] \[[code](https://github.com/gjy3035/PCC-Net) ⭐ 256 | 🐛 18 | 🌐 Python | 📅 2020-03-12]![GitHub stars](http://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github\&label=Stars)
+* <a name="PCC-Net"></a> **\[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) \[[paper](https://arxiv.org/abs/1905.10085)] \[[code](https://github.com/gjy3035/PCC-Net) ⭐ 255 | 🐛 18 | 🌐 Python | 📅 2020-03-12]![GitHub stars](http://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github\&label=Stars)
 * <a name="SCAR"></a> **\[SCAR]** SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (**Neurocomputing**) \[[paper](https://arxiv.org/abs/1908.03716)]\[[code](https://github.com/gjy3035/SCAR) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2020-02-29]![GitHub stars](http://img.shields.io/github/stars/gjy3035/SCAR.svg?logo=github\&label=Stars)
 * <a name="D-ConvNet"></a> **\[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8850209)]\(extension of [D-ConvNet](#D-ConvNet))\[[Project](https://mmcheng.net/dncl/)]
 * <a name="SL2R"></a>  **\[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) \[[paper](https://arxiv.org/abs/1902.06285)]\(extension of [L2R](#L2R))
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

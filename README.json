@@ -701,7 +701,7 @@
                 "last_commit": "2024-03-01T05:13:22Z",
                 "owner": "taohan10200",
                 "repo": "STEERER",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -2099,7 +2099,7 @@
                 "last_commit": "2020-03-12T11:12:23Z",
                 "owner": "gjy3035",
                 "repo": "PCC-Net",
-                "stars": 256
+                "stars": 255
               }
             },
             {
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:13:06.342Z",
+    "last_updated": "2026-08-21T20:09:10.017Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_id": 130979291,
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
