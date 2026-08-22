@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-30T03:30:40Z",
                 "owner": "gjy3035",
                 "repo": "C-3-Framework",
-                "stars": 733
+                "stars": 732
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-11-04T13:50:08Z",
                 "owner": "zaki1003",
                 "repo": "YOLO-CROWD",
-                "stars": 81
+                "stars": 80
               }
             }
           ],
@@ -372,7 +372,7 @@
                 "last_commit": "2024-04-02T20:23:47Z",
                 "owner": "dylran",
                 "repo": "crowddiff",
-                "stars": 147
+                "stars": 146
               }
             },
             {
@@ -626,7 +626,7 @@
                 "last_commit": "2024-04-02T20:23:47Z",
                 "owner": "dylran",
                 "repo": "crowddiff",
-                "stars": 147
+                "stars": 146
               }
             },
             {
@@ -2136,7 +2136,7 @@
                 "last_commit": "2023-10-19T19:48:43Z",
                 "owner": "leeyeehoo",
                 "repo": "CSRNet-pytorch",
-                "stars": 734
+                "stars": 733
               }
             },
             {
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:09:10.017Z",
+    "last_updated": "2026-08-22T20:02:26.518Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_id": 130979291,
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
