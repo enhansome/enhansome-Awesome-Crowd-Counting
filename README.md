@@ -71,7 +71,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
 * CLIP-Count: Towards Text-Guided Zero-Shot Object Counting \[[paper](https://arxiv.org/abs/2305.07304)]\[[code](https://github.com/songrise/CLIP-Count) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2024-03-20]
-* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 96 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
+* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 97 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
 * CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward \[[paper](https://arxiv.org/abs/2504.03724)]![GitHub stars](http://img.shields.io/github/stars/yeyimilk/CrowdVLM-R1.svg?logo=github\&label=Stars)
 * L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation \[[paper](https://arxiv.org/abs/2503.12935)]
 * Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization \[[paper](https://arxiv.org/abs/2503.12441)]
@@ -171,7 +171,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 
 * <a name="CrowdDiff"></a>**\[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)]\[[code](https://github.com/dylran/crowddiff) ⭐ 146 | 🐛 19 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github\&label=Stars)
-* <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 126 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
+* <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 127 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
 * <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 98 | 🐛 11 | 🌐 Python | 📅 2025-03-31]
 * <a name="APGCC"></a>**\[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)\[[paper](https://arxiv.org/abs/2405.10589)]\[[code](https://github.com/AaronCIH/APGCC) ⭐ 95 | 🐛 26 | 🌐 Python | 📅 2024-07-31]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github\&label=Stars)
 * <a name="SRN"></a>**\[SAM]** Training-free Object Counting with Prompts (**WACV**)\[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)]\[[code](https://github.com/shizenglin/training-free-object-counter) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2023-12-14]![GitHub stars](http://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github\&label=Stars)
@@ -573,8 +573,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Journal
 
-* <a name="DAL-SVR"></a> **\[DAL-SVR]** Boosting deep attribute learning via support vector regression for fast moving crowd counting (**PR Letters**) \[[paper](https://www.sciencedirect.com/science/article/pii/S0167865517304415)]
 * <a name="CNN-MRF"></a> **\[CNN-MRF]** Image Crowd Counting Using Convolutional Neural Network and Markov Random Field (**JACII**) \[[paper](https://arxiv.org/abs/1706.03686)] \[[code](https://github.com/hankong/crowd-counting) ⭐ 33 | 🐛 5 | 🌐 C++ | 📅 2017-12-07]![GitHub stars](http://img.shields.io/github/stars/hankong/crowd-counting.svg?logo=github\&label=Stars)
+* <a name="DAL-SVR"></a> **\[DAL-SVR]** Boosting deep attribute learning via support vector regression for fast moving crowd counting (**PR Letters**) \[[paper](https://www.sciencedirect.com/science/article/pii/S0167865517304415)]
 
 ### 2016
 
@@ -596,10 +596,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
+* <a name="Zhang2015"></a> **\[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR**) \[[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] \[[code](https://github.com/wk910930/crowd_density_segmentation) ⭐ 23 | 🐛 2 | 🌐 Matlab | 📅 2017-06-09]![GitHub stars](http://img.shields.io/github/stars/wk910930/crowd_density_segmentation.svg?logo=github\&label=Stars)
 * <a name="COUNTForest"></a> **\[COUNT Forest]** COUNT Forest: CO-voting Uncertain Number of Targets using Random Forest
   for Crowd Density Estimation (**ICCV**) \[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.pdf)]
 * <a name="Bayesian"></a> **\[Bayesian]** Bayesian Model Adaptation for Crowd Counts (**ICCV**) \[[paper](https://ieeexplore.ieee.org/document/7410832?arnumber=7410832\&tag=1)]
-* <a name="Zhang2015"></a> **\[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR**) \[[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] \[[code](https://github.com/wk910930/crowd_density_segmentation) ⭐ 23 | 🐛 2 | 🌐 Matlab | 📅 2017-06-09]![GitHub stars](http://img.shields.io/github/stars/wk910930/crowd_density_segmentation.svg?logo=github\&label=Stars)
 * <a name="Wang2015"></a> **\[Wang 2015]** Deep People Counting in Extremely Dense Crowds (**ACMMM**) \[[paper](https://dl.acm.org/citation.cfm?id=2806337)]
 
 ### Journal
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

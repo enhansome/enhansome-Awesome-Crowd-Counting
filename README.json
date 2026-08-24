@@ -91,6 +91,28 @@
           "description": null,
           "node_type": "group",
           "title": "Technical blog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Density Map Generation from Key Points [Matlab Code",
+              "description": "] [Python Code] [Fast Python Code] [Pytorch CUDA Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128621470,
+                "language": "Python",
+                "last_commit": "2018-05-24T08:33:45Z",
+                "owner": "aachenhang",
+                "repo": "crowdcount-mcnn",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GT generation"
         }
       ],
       "title": "Misc"
@@ -127,112 +149,7 @@
                 "last_commit": "2024-07-17T08:34:22Z",
                 "owner": "Yiming-M",
                 "repo": "CLIP-EBC",
-                "stars": 96
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Learning Independent Instance Maps for Crowd Localization [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 318138929,
-                "language": "Python",
-                "last_commit": "2024-11-20T05:48:55Z",
-                "owner": "taohan10200",
-                "repo": "IIM",
-                "stars": 184
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "W-Net: Reinforced U-Net for Density Map Estimation [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 187315756,
-                "language": "Jupyter Notebook",
-                "last_commit": "2019-06-29T11:35:19Z",
-                "owner": "ZhengPeng7",
-                "repo": "W-Net-Keras",
-                "stars": 22
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 446843085,
-                "language": "Python",
-                "last_commit": "2023-03-13T14:18:07Z",
-                "owner": "bridgeqiqi",
-                "repo": "DREAM",
-                "stars": 20
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 263279386,
-                "language": "Python",
-                "last_commit": "2022-05-13T01:34:53Z",
-                "owner": "qingzwang",
-                "repo": "AudioVisualCrowdCounting",
-                "stars": 18
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Exploit the potential of Multi-column architecture for Crowd Counting [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 277065461,
-                "language": "Python",
-                "last_commit": "2021-01-17T07:37:01Z",
-                "owner": "daimuuc",
-                "repo": "PyramidScaleNetwork",
-                "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Improving Object Counting with Heatmap Regulation [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 134627058,
-                "language": "Python",
-                "last_commit": "2019-04-05T21:33:30Z",
-                "owner": "shubhraaich",
-                "repo": "heatmap-regulation",
-                "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Counting with Adaptive Auxiliary Learning [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 409201533,
-                "language": "Python",
-                "last_commit": "2022-11-29T01:20:26Z",
-                "owner": "smallmax00",
-                "repo": "Counting_With_Adaptive_Auxiliary_Learning",
-                "stars": 10
+                "stars": 97
               }
             }
           ],
@@ -242,6 +159,117 @@
         }
       ],
       "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning Independent Instance Maps for Crowd Localization [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318138929,
+            "language": "Python",
+            "last_commit": "2024-11-20T05:48:55Z",
+            "owner": "taohan10200",
+            "repo": "IIM",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "W-Net: Reinforced U-Net for Density Map Estimation [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187315756,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-06-29T11:35:19Z",
+            "owner": "ZhengPeng7",
+            "repo": "W-Net-Keras",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 446843085,
+            "language": "Python",
+            "last_commit": "2023-03-13T14:18:07Z",
+            "owner": "bridgeqiqi",
+            "repo": "DREAM",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263279386,
+            "language": "Python",
+            "last_commit": "2022-05-13T01:34:53Z",
+            "owner": "qingzwang",
+            "repo": "AudioVisualCrowdCounting",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploit the potential of Multi-column architecture for Crowd Counting [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277065461,
+            "language": "Python",
+            "last_commit": "2021-01-17T07:37:01Z",
+            "owner": "daimuuc",
+            "repo": "PyramidScaleNetwork",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Object Counting with Heatmap Regulation [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134627058,
+            "language": "Python",
+            "last_commit": "2019-04-05T21:33:30Z",
+            "owner": "shubhraaich",
+            "repo": "heatmap-regulation",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counting with Adaptive Auxiliary Learning [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409201533,
+            "language": "Python",
+            "last_commit": "2022-11-29T01:20:26Z",
+            "owner": "smallmax00",
+            "repo": "Counting_With_Adaptive_Auxiliary_Learning",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Earlier ArXiv Papers"
     },
     {
       "description": null,
@@ -387,7 +415,7 @@
                 "last_commit": "2024-11-12T17:01:41Z",
                 "owner": "Hzzone",
                 "repo": "PseCo",
-                "stars": 126
+                "stars": 127
               }
             },
             {
@@ -2342,6 +2370,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "[CNN-MRF] Image Crowd Counting Using Convolutional Neural Network and Markov Random Field (JACII) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107199509,
+                "language": "C++",
+                "last_commit": "2017-12-07T08:04:33Z",
+                "owner": "imkanghan",
+                "repo": "crowd-counting",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Journal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "[CrowdNet] CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (ACMMM) [paper",
               "description": "] [code]",
               "children": [],
@@ -2389,13 +2439,35 @@
           "description": null,
           "node_type": "group",
           "title": "Conference"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Zhang 2015] Cross-scene Crowd Counting via Deep Convolutional Neural Networks (CVPR) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93631612,
+                "language": "Matlab",
+                "last_commit": "2017-06-09T15:48:28Z",
+                "owner": "wk910930",
+                "repo": "crowd_density_segmentation",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Conference"
         }
       ],
       "title": "2025"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:01:27.716Z",
+    "last_updated": "2026-08-24T14:03:23.426Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_id": 130979291,
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
