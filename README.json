@@ -699,7 +699,7 @@
                 "last_commit": "2025-04-11T08:20:01Z",
                 "owner": "cxliu0",
                 "repo": "PET",
-                "stars": 88
+                "stars": 89
               }
             },
             {
@@ -1245,7 +1245,7 @@
                 "last_commit": "2023-03-30T03:32:30Z",
                 "owner": "dk-liang",
                 "repo": "FIDTM",
-                "stars": 199
+                "stars": 198
               }
             },
             {
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:37.668Z",
+    "last_updated": "2026-08-25T20:12:09.704Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_id": 130979291,
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
