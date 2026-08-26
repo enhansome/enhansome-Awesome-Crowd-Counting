@@ -320,7 +320,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="P2PNet"></a>**\[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) \[[paper](https://arxiv.org/abs/2107.12746)]\[[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet) ⭐ 556 | 🐛 74 | 🌐 Python | 📅 2024-05-29]![GitHub stars](http://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-P2PNet.svg?logo=github\&label=Stars)
+* <a name="P2PNet"></a>**\[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) \[[paper](https://arxiv.org/abs/2107.12746)]\[[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet) ⭐ 557 | 🐛 74 | 🌐 Python | 📅 2024-05-29]![GitHub stars](http://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-P2PNet.svg?logo=github\&label=Stars)
 * <a name="STANet"></a> **\[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR**) \[[paper](https://arxiv.org/abs/2105.02440)]\[[code](https://github.com/VisDrone/DroneCrowd) ⭐ 221 | 🐛 18 | 🌐 MATLAB | 📅 2024-07-25]![GitHub stars](http://img.shields.io/github/stars/VisDrone/DroneCrowd.svg?logo=github\&label=Stars)
 * <a name="CFOCNet"></a> **\[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) \[[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]\[[code](https://github.com/SinicaGroup/Class-agnostic-Few-shot-Object-Counting) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2022-09-22]![GitHub stars](http://img.shields.io/github/stars/SinicaGroup/Class-agnostic-Few-shot-Object-Counting.svg?logo=github\&label=Stars)
 * <a name="SASNet"></a> **\[SASNet]** To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI**) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16360)]\[[code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet) ⭐ 91 | 🐛 16 | 🌐 Python | 📅 2021-03-29]![GitHub stars](http://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-SASNet.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

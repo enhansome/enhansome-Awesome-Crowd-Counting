@@ -1327,7 +1327,7 @@
                 "last_commit": "2024-05-29T10:24:57Z",
                 "owner": "TencentYoutuResearch",
                 "repo": "CrowdCounting-P2PNet",
-                "stars": 556
+                "stars": 557
               }
             },
             {
@@ -2467,7 +2467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:12:09.704Z",
+    "last_updated": "2026-08-26T22:31:38.923Z",
     "original_repository": "gjy3035/Awesome-Crowd-Counting",
     "original_repository_id": 130979291,
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
