@@ -1985,7 +1985,7 @@
                 "last_commit": "2023-07-04T05:38:38Z",
                 "owner": "zhiheng-ma",
                 "repo": "Bayesian-Crowd-Counting",
-                "stars": 344
+                "stars": 343
               }
             },
             {
@@ -2467,9 +2467,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:31:38.923Z",
-    "original_repository": "gjy3035/Awesome-Crowd-Counting",
-    "original_repository_id": 130979291,
+    "last_updated": "2026-08-27T11:23:09.402Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 130979291,
+      "language": null,
+      "last_commit": "2026-01-24T01:40:31Z",
+      "owner": "gjy3035",
+      "repo": "Awesome-Crowd-Counting",
+      "stars": 2611
+    },
     "original_repository_sha": "b94632604ee383d3fc1fc5ce023cb83830ef3b47",
     "enhanced_repository": "enhansome/enhansome-Awesome-Crowd-Counting",
     "enhanced_repository_description": null,

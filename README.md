@@ -455,7 +455,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="BL"></a> **\[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV(oral)**) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Bayesian_Loss_for_Crowd_Count_Estimation_With_Point_Supervision_ICCV_2019_paper.pdf)]\[[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting) ⭐ 344 | 🐛 23 | 🌐 Python | 📅 2023-07-04] ![GitHub stars](http://img.shields.io/github/stars/ZhihengCV/Bayesian-Crowd-Counting.svg?logo=github\&label=Stars)
+* <a name="BL"></a> **\[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV(oral)**) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Bayesian_Loss_for_Crowd_Count_Estimation_With_Point_Supervision_ICCV_2019_paper.pdf)]\[[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting) ⭐ 343 | 🐛 23 | 🌐 Python | 📅 2023-07-04] ![GitHub stars](http://img.shields.io/github/stars/ZhihengCV/Bayesian-Crowd-Counting.svg?logo=github\&label=Stars)
 * <a name="CAN"></a> **\[CAN]** Context-Aware Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/pdf/1811.10452.pdf)] \[[code](https://github.com/weizheliu/Context-Aware-Crowd-Counting) ⭐ 173 | 🐛 5 | 🌐 Python | 📅 2020-01-06]![GitHub stars](http://img.shields.io/github/stars/weizheliu/Context-Aware-Crowd-Counting.svg?logo=github\&label=Stars)
 * <a name="S-DCNet"></a> **\[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV**) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_From_Open_Set_to_Closed_Set_Counting_Objects_by_Spatial_ICCV_2019_paper.pdf)]\[[code](https://github.com/xhp-hust-2018-2011/S-DCNet) ⭐ 133 | 🐛 12 | 🌐 Python | 📅 2023-07-06]![GitHub stars](http://img.shields.io/github/stars/xhp-hust-2018-2011/S-DCNet.svg?logo=github\&label=Stars)
 * <a name="CFF"></a> **\[CFF]** Counting with Focus for Free (**ICCV**) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Counting_With_Focus_for_Free_ICCV_2019_paper.pdf)]\[[code](https://github.com/shizenglin/Counting-with-Focus-for-Free) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2019-10-30] ![GitHub stars](http://img.shields.io/github/stars/shizenglin/Counting-with-Focus-for-Free.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
