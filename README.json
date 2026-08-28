@@ -906,6 +906,21 @@
             },
             {
               "node_type": "item",
+              "title": "[AGK] Counting manatee aggregations using deep neural networks and Anisotropic Gaussian Kernel (Scientific Reports-Nature) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592983451,
+                "language": "Python",
+                "last_commit": "2024-09-13T02:36:19Z",
+                "owner": "yeyimilk",
+                "repo": "deep-learning-for-manatee-counting",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
               "title": "[EoCo] A Unified Object Counting Network with Object Occupation Prior (T-CSVT) [paper",
               "description": "][code]",
               "children": [],
@@ -2467,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:09.402Z",
+    "last_updated": "2026-08-28T03:52:19.897Z",
     "original_repository_info": {
       "archived": false,
       "id": 130979291,
