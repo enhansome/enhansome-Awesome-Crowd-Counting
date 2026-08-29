@@ -156,7 +156,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="MDC"></a>**\[MDC]** Video Individual Counting for Moving Drones (**ICCV**)\[[paper](https://arxiv.org/abs/2503.10701)]\[[code](https://github.com/fyw1999/MovingDroneCrowd) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2026-06-24]
+* <a name="MDC"></a>**\[MDC]** Video Individual Counting for Moving Drones (**ICCV**)\[[paper](https://arxiv.org/abs/2503.10701)]\[[code](https://github.com/fyw1999/MovingDroneCrowd) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2026-08-29]
 * <a name="T2ICount"></a>**\[T2ICount]** T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/cha15yq/T2ICount) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2025-04-09]
 * <a name="E-MAC"></a>**\[E-MAC]** Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (**ICLR**) \[[paper](https://openreview.net/pdf?id=sY3anJ8C68)]\[[code](https://github.com/mast1ren/E-MAC) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-06-03]
 * <a name="FLE"></a>**\[FLE]** Free Lunch Enhancements for Multi-modal Crowd Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_Free_Lunch_Enhancements_for_Multi-modal_Crowd_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/HenryCilence/Free-Lunch-Multimodal-Counting) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-04-04]
