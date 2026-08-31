@@ -622,7 +622,7 @@
                 "open_issues": 26,
                 "owner": "AaronCIH",
                 "repo": "APGCC",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "artificial-intelligence",
                   "auxiliary-learning",
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:08:55.756Z",
+    "last_updated": "2026-08-31T23:26:49.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
