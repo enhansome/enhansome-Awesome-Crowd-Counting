@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "Yiming-M",
                 "repo": "CLIP-EBC",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -993,7 +993,7 @@
                 "open_issues": 8,
                 "owner": "cxliu0",
                 "repo": "PET",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "crowdcounting",
                   "object-counting"
@@ -1926,7 +1926,7 @@
                 "open_issues": 74,
                 "owner": "TencentYoutuResearch",
                 "repo": "CrowdCounting-P2PNet",
-                "stars": 558,
+                "stars": 557,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -1947,7 +1947,7 @@
                 "open_issues": 18,
                 "owner": "VisDrone",
                 "repo": "DroneCrowd",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:06:46.339Z",
+    "last_updated": "2026-09-02T22:01:35.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
