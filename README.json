@@ -402,7 +402,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-30T05:24:28Z",
-                "open_issues": 4,
+                "open_issues": 0,
                 "owner": "fyw1999",
                 "repo": "MovingDroneCrowd",
                 "stars": 35,
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:01:35.876Z",
+    "last_updated": "2026-09-03T21:55:54.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
