@@ -1038,7 +1038,7 @@
                 "open_issues": 7,
                 "owner": "taohan10200",
                 "repo": "STEERER",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "crowd-counting",
                   "object-counitng",
@@ -3148,7 +3148,7 @@
                 "open_issues": 67,
                 "owner": "leeyeehoo",
                 "repo": "CSRNet-pytorch",
-                "stars": 733,
+                "stars": 734,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:46:42.942Z",
+    "last_updated": "2026-09-07T22:18:19.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",

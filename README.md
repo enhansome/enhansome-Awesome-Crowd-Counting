@@ -46,7 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### GT generation
 
-* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 733 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
+* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 734 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
 
 ### Related Tasks
 
@@ -211,7 +211,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 * <a name="CrowdCLIP"></a>**\[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)\[[paper](https://arxiv.org/abs/2304.04231)]\[[code](https://github.com/dk-liang/CrowdCLIP) ⭐ 92 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-07-28]
 * <a name="PET"></a>**\[PET]** Point-Query Quadtree for Crowd Counting, Localization, and More (**ICCV**)\[[paper](https://arxiv.org/abs/2308.13814)]\[[code](https://github.com/cxliu0/PET) ⭐ 89 | 🐛 8 | 🌐 Python | 📅 2025-04-11]![GitHub stars](http://img.shields.io/github/stars/cxliu0/PET.svg?logo=github\&label=Stars)
 * <a name="IOCFormer"></a>**\[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)\[[paper](http://arxiv.org/abs/2304.11677)]\[[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting) ⭐ 76 | 🐛 3 | 📅 2026-07-26]![GitHub stars](http://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github\&label=Stars)
-* <a name="PET"></a>**\[STEERER]** STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (**ICCV**)\[[paper](https://arxiv.org/abs/2308.10468)]\[[code](https://github.com/taohan10200/STEERER) ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2024-03-01]![GitHub stars](http://img.shields.io/github/stars/taohan10200/STEERER.svg?logo=github\&label=Stars)
+* <a name="PET"></a>**\[STEERER]** STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (**ICCV**)\[[paper](https://arxiv.org/abs/2308.10468)]\[[code](https://github.com/taohan10200/STEERER) ⭐ 65 | 🐛 7 | 🌐 Python | 📅 2024-03-01]![GitHub stars](http://img.shields.io/github/stars/taohan10200/STEERER.svg?logo=github\&label=Stars)
 * <a name="ZSC"></a>**\[ZSC]** Zero-shot Object Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2303.02001)]\[[code](https://github.com/cvlab-stonybrook/zero-shot-counting) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2025-03-23]![GitHub stars](http://img.shields.io/github/stars/cvlab-stonybrook/zero-shot-counting.svg?logo=github\&label=Stars)
 * <a name="DGCC"></a>**\[DGCC]** Domain-general Crowd Counting in Unseen Scenarios (**AAAI**)\[[paper](https://arxiv.org/abs/2212.02573)] \[[code](https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2025-03-08]![GitHub stars](http://img.shields.io/github/stars/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios.svg?logo=github\&label=Stars)
 * <a name="Crowd-Hat"></a>**\[Crowd-Hat]** Boosting Detection in Crowd Analysis via Underutilized Output Features (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Boosting_Detection_in_Crowd_Analysis_via_Underutilized_Output_Features_CVPR_2023_paper.pdf)]\[[code](https://github.com/wskingdom/Crowd-Hat) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2024-04-19]![GitHub stars](http://img.shields.io/github/stars/wskingdom/Crowd-Hat.svg?logo=github\&label=Stars)
@@ -526,7 +526,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="CSR"></a> **\[CSR]**  CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR**) \[[paper](https://arxiv.org/abs/1802.10062)] \[[code](https://github.com/leeyeehoo/CSRNet-pytorch) ⭐ 733 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19]![GitHub stars](http://img.shields.io/github/stars/leeyeehoo/CSRNet-pytorch.svg?logo=github\&label=Stars)
+* <a name="CSR"></a> **\[CSR]**  CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR**) \[[paper](https://arxiv.org/abs/1802.10062)] \[[code](https://github.com/leeyeehoo/CSRNet-pytorch) ⭐ 734 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19]![GitHub stars](http://img.shields.io/github/stars/leeyeehoo/CSRNet-pytorch.svg?logo=github\&label=Stars)
 * <a name="LCFCN"></a> **\[LCFCN]**  Where are the Blobs: Counting by Localization with Point Supervision (**ECCV**) \[[paper](https://arxiv.org/abs/1807.09856)] \[[code](https://github.com/ElementAI/LCFCN) ⭐ 176 | 🐛 18 | 🌐 Python | 📅 2025-02-17]![GitHub stars](http://img.shields.io/github/stars/ElementAI/LCFCN.svg?logo=github\&label=Stars)
 * <a name="SaCNN"></a> **\[SaCNN]** Crowd counting via scale-adaptive convolutional neural network (**WACV**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8354231)] \[[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu) ⭐ 107 | 🐛 1 | 🌐 C++ | 📅 2019-06-19]![GitHub stars](http://img.shields.io/github/stars/miao0913/SaCNN-CrowdCounting-Tencent_Youtu.svg?logo=github\&label=Stars)
 * <a name="L2R"></a>  **\[L2R]** Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR**) \[[paper](https://arxiv.org/abs/1803.03095)] \[[code](https://github.com/xialeiliu/CrowdCountingCVPR18) ⭐ 102 | 🐛 1 | 📅 2019-02-19] ![GitHub stars](http://img.shields.io/github/stars/xialeiliu/CrowdCountingCVPR18.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
