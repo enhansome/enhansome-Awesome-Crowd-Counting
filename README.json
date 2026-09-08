@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:18:19.041Z",
+    "last_updated": "2026-09-08T22:02:57.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
@@ -3603,7 +3603,7 @@
       "open_issues": 17,
       "owner": "gjy3035",
       "repo": "Awesome-Crowd-Counting",
-      "stars": 2611,
+      "stars": 2612,
       "topics": [
         "computer-vision",
         "crowd-analysis",
