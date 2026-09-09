@@ -1947,7 +1947,7 @@
                 "open_issues": 18,
                 "owner": "VisDrone",
                 "repo": "DroneCrowd",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:02:57.629Z",
+    "last_updated": "2026-09-09T22:00:49.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
