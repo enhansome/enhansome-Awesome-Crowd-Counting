@@ -1926,7 +1926,7 @@
                 "open_issues": 74,
                 "owner": "TencentYoutuResearch",
                 "repo": "CrowdCounting-P2PNet",
-                "stars": 557,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:00:49.454Z",
+    "last_updated": "2026-09-10T21:59:01.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
