@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "zaki1003",
                 "repo": "YOLO-CROWD",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -601,7 +601,7 @@
                 "open_issues": 11,
                 "owner": "Shimmer93",
                 "repo": "MPCount",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:27:46.824Z",
+    "last_updated": "2026-09-16T22:24:39.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",

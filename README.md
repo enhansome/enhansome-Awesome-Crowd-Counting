@@ -35,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 732 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
 * \[[CCLabeler](https://github.com/Elin24/cclabeler) ⭐ 122 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-27] A web tool for labeling pedestrians in an image, which is released. ![GitHub stars](http://img.shields.io/github/stars/Elin24/cclabeler.svg?logo=github\&label=Stars)
-* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 80 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 241 | 🐛 47 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
+* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 81 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 241 | 🐛 47 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
 
 ### Technical blog
 
@@ -172,7 +172,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 * <a name="CrowdDiff"></a>**\[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)]\[[code](https://github.com/dylran/crowddiff) ⭐ 146 | 🐛 19 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github\&label=Stars)
 * <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 127 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
-* <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 98 | 🐛 11 | 🌐 Python | 📅 2025-03-31]
+* <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2025-03-31]
 * <a name="APGCC"></a>**\[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)\[[paper](https://arxiv.org/abs/2405.10589)]\[[code](https://github.com/AaronCIH/APGCC) ⭐ 97 | 🐛 26 | 🌐 Python | 📅 2024-07-31]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github\&label=Stars)
 * <a name="SRN"></a>**\[SAM]** Training-free Object Counting with Prompts (**WACV**)\[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)]\[[code](https://github.com/shizenglin/training-free-object-counter) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2023-12-14]![GitHub stars](http://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github\&label=Stars)
 * <a name="Gramformer"></a>**\[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**AAAI**) \[[paper](https://arxiv.org/abs/2401.03870)]\[[code](https://github.com/LoraLinH/Gramformer) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2024-09-11]![GitHub stars](http://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
