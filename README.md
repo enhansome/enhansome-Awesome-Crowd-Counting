@@ -39,7 +39,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Technical blog
 
-* \[2019.04] Crowd counting from scratch \[[Link](https://github.com/CommissarMa/Crowd_counting_from_scratch) ⭐ 187 | 🐛 3 | 🌐 Python | 📅 2023-03-27]
+* \[2019.04] Crowd counting from scratch \[[Link](https://github.com/CommissarMa/Crowd_counting_from_scratch) ⭐ 186 | 🐛 3 | 🌐 Python | 📅 2023-03-27]
 * \[2017.11] Counting Crowds and Lines with AI \[[Link1](https://blog.dimroc.com/2017/11/19/counting-crowds-and-lines/)] \[[Link2](https://count.dimroc.com/)] \[[Code](https://github.com/dimroc/count) ⭐ 54 | 🐛 2 | 🌐 Swift | 📅 2019-04-27]![GitHub stars](http://img.shields.io/github/stars/dimroc/count.svg?logo=github\&label=Stars)
 * \[Chinese Blog] 人群计数论文解读 \[[Link](https://zhuanlan.zhihu.com/c_1111215695622352896)]
 * \[2019.05] \[Chinese Blog] C^3 Framework系列之一：一个基于PyTorch的开源人群计数框架 \[[Link](https://zhuanlan.zhihu.com/p/65650998)]
@@ -71,7 +71,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
 * CLIP-Count: Towards Text-Guided Zero-Shot Object Counting \[[paper](https://arxiv.org/abs/2305.07304)]\[[code](https://github.com/songrise/CLIP-Count) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2024-03-20]
-* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 98 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
+* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 99 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
 * CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward \[[paper](https://arxiv.org/abs/2504.03724)]![GitHub stars](http://img.shields.io/github/stars/yeyimilk/CrowdVLM-R1.svg?logo=github\&label=Stars)
 * L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation \[[paper](https://arxiv.org/abs/2503.12935)]
 * Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization \[[paper](https://arxiv.org/abs/2503.12441)]
@@ -209,7 +209,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 * <a name="DDC"></a>**\[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)\[[paper](https://arxiv.org/abs/2303.12790)]\[[code](https://github.com/dylran/DiffuseDenoiseCount) ⭐ 146 | 🐛 19 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github\&label=Stars)
 * <a name="SAFECount"></a>**\[SAFECount]** Few-Shot Object Counting With Similarity-Aware Feature Enhancement (**WACV**)\[[paper](https://arxiv.org/abs/2201.08959)] \[[code](https://github.com/zhiyuanyou/SAFECount) ⭐ 142 | 🐛 2 | 🌐 Python | 📅 2023-10-10]![GitHub stars](http://img.shields.io/github/stars/zhiyuanyou/SAFECount.svg?logo=github\&label=Stars)
 * <a name="CrowdCLIP"></a>**\[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)\[[paper](https://arxiv.org/abs/2304.04231)]\[[code](https://github.com/dk-liang/CrowdCLIP) ⭐ 92 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-07-28]
-* <a name="PET"></a>**\[PET]** Point-Query Quadtree for Crowd Counting, Localization, and More (**ICCV**)\[[paper](https://arxiv.org/abs/2308.13814)]\[[code](https://github.com/cxliu0/PET) ⭐ 89 | 🐛 8 | 🌐 Python | 📅 2025-04-11]![GitHub stars](http://img.shields.io/github/stars/cxliu0/PET.svg?logo=github\&label=Stars)
+* <a name="PET"></a>**\[PET]** Point-Query Quadtree for Crowd Counting, Localization, and More (**ICCV**)\[[paper](https://arxiv.org/abs/2308.13814)]\[[code](https://github.com/cxliu0/PET) ⭐ 90 | 🐛 8 | 🌐 Python | 📅 2025-04-11]![GitHub stars](http://img.shields.io/github/stars/cxliu0/PET.svg?logo=github\&label=Stars)
 * <a name="IOCFormer"></a>**\[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)\[[paper](http://arxiv.org/abs/2304.11677)]\[[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting) ⭐ 76 | 🐛 3 | 📅 2026-07-26]![GitHub stars](http://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github\&label=Stars)
 * <a name="PET"></a>**\[STEERER]** STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (**ICCV**)\[[paper](https://arxiv.org/abs/2308.10468)]\[[code](https://github.com/taohan10200/STEERER) ⭐ 65 | 🐛 7 | 🌐 Python | 📅 2024-03-01]![GitHub stars](http://img.shields.io/github/stars/taohan10200/STEERER.svg?logo=github\&label=Stars)
 * <a name="ZSC"></a>**\[ZSC]** Zero-shot Object Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2303.02001)]\[[code](https://github.com/cvlab-stonybrook/zero-shot-counting) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2025-03-23]![GitHub stars](http://img.shields.io/github/stars/cvlab-stonybrook/zero-shot-counting.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

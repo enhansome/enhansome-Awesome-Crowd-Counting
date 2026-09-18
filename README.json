@@ -96,7 +96,7 @@
                 "open_issues": 3,
                 "owner": "CommissarMa",
                 "repo": "Crowd_counting_from_scratch",
-                "stars": 187,
+                "stars": 186,
                 "topics": [
                   "computer-vision",
                   "crowd-counting",
@@ -204,7 +204,7 @@
                 "open_issues": 1,
                 "owner": "Yiming-M",
                 "repo": "CLIP-EBC",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -993,7 +993,7 @@
                 "open_issues": 8,
                 "owner": "cxliu0",
                 "repo": "PET",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "crowdcounting",
                   "object-counting"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:27:37.761Z",
+    "last_updated": "2026-09-18T21:57:24.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
