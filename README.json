@@ -3190,7 +3190,7 @@
                 "open_issues": 1,
                 "owner": "miao0913",
                 "repo": "SaCNN-CrowdCounting-Tencent_Youtu",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:57:24.118Z",
+    "last_updated": "2026-09-19T21:48:06.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
