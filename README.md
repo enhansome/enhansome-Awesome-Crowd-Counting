@@ -46,7 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### GT generation
 
-* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 734 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
+* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 735 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
 
 ### Related Tasks
 
@@ -157,7 +157,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 
 * <a name="MDC"></a>**\[MDC]** Video Individual Counting for Moving Drones (**ICCV**)\[[paper](https://arxiv.org/abs/2503.10701)]\[[code](https://github.com/fyw1999/MovingDroneCrowd) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-09-04]
-* <a name="T2ICount"></a>**\[T2ICount]** T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/cha15yq/T2ICount) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2025-04-09]
+* <a name="T2ICount"></a>**\[T2ICount]** T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/cha15yq/T2ICount) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2025-04-09]
 * <a name="E-MAC"></a>**\[E-MAC]** Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (**ICLR**) \[[paper](https://openreview.net/pdf?id=sY3anJ8C68)]\[[code](https://github.com/mast1ren/E-MAC) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-06-03]
 * <a name="FLE"></a>**\[FLE]** Free Lunch Enhancements for Multi-modal Crowd Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_Free_Lunch_Enhancements_for_Multi-modal_Crowd_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/HenryCilence/Free-Lunch-Multimodal-Counting) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-04-04]
 * <a name="P2R"></a>**\[P2R]** Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2505.21943)]\[[code](https://github.com/Elin24/P2RLoss) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-01-26]
@@ -526,7 +526,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="CSR"></a> **\[CSR]**  CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR**) \[[paper](https://arxiv.org/abs/1802.10062)] \[[code](https://github.com/leeyeehoo/CSRNet-pytorch) ⭐ 734 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19]![GitHub stars](http://img.shields.io/github/stars/leeyeehoo/CSRNet-pytorch.svg?logo=github\&label=Stars)
+* <a name="CSR"></a> **\[CSR]**  CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR**) \[[paper](https://arxiv.org/abs/1802.10062)] \[[code](https://github.com/leeyeehoo/CSRNet-pytorch) ⭐ 735 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19]![GitHub stars](http://img.shields.io/github/stars/leeyeehoo/CSRNet-pytorch.svg?logo=github\&label=Stars)
 * <a name="LCFCN"></a> **\[LCFCN]**  Where are the Blobs: Counting by Localization with Point Supervision (**ECCV**) \[[paper](https://arxiv.org/abs/1807.09856)] \[[code](https://github.com/ElementAI/LCFCN) ⭐ 176 | 🐛 18 | 🌐 Python | 📅 2025-02-17]![GitHub stars](http://img.shields.io/github/stars/ElementAI/LCFCN.svg?logo=github\&label=Stars)
 * <a name="SaCNN"></a> **\[SaCNN]** Crowd counting via scale-adaptive convolutional neural network (**WACV**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8354231)] \[[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu) ⭐ 108 | 🐛 1 | 🌐 C++ | 📅 2019-06-19]![GitHub stars](http://img.shields.io/github/stars/miao0913/SaCNN-CrowdCounting-Tencent_Youtu.svg?logo=github\&label=Stars)
 * <a name="L2R"></a>  **\[L2R]** Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR**) \[[paper](https://arxiv.org/abs/1803.03095)] \[[code](https://github.com/xialeiliu/CrowdCountingCVPR18) ⭐ 102 | 🐛 1 | 📅 2019-02-19] ![GitHub stars](http://img.shields.io/github/stars/xialeiliu/CrowdCountingCVPR18.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

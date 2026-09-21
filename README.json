@@ -426,7 +426,7 @@
                 "open_issues": 5,
                 "owner": "cha15yq",
                 "repo": "T2ICount",
-                "stars": 28,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3148,7 +3148,7 @@
                 "open_issues": 67,
                 "owner": "leeyeehoo",
                 "repo": "CSRNet-pytorch",
-                "stars": 734,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:55:39.350Z",
+    "last_updated": "2026-09-21T22:51:25.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
