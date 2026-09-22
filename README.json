@@ -2016,7 +2016,7 @@
                 "open_issues": 9,
                 "owner": "chen-judge",
                 "repo": "RGBTCrowdCounting",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:51:25.320Z",
+    "last_updated": "2026-09-22T22:26:35.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
