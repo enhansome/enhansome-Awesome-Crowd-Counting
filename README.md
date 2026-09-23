@@ -33,20 +33,20 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Code
 
-* \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 732 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
+* \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 733 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
 * \[[CCLabeler](https://github.com/Elin24/cclabeler) ⭐ 122 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-27] A web tool for labeling pedestrians in an image, which is released. ![GitHub stars](http://img.shields.io/github/stars/Elin24/cclabeler.svg?logo=github\&label=Stars)
 * \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 81 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 241 | 🐛 47 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
 
 ### Technical blog
 
-* \[2019.04] Crowd counting from scratch \[[Link](https://github.com/CommissarMa/Crowd_counting_from_scratch) ⭐ 186 | 🐛 3 | 🌐 Python | 📅 2023-03-27]
+* \[2019.04] Crowd counting from scratch \[[Link](https://github.com/CommissarMa/Crowd_counting_from_scratch) ⭐ 187 | 🐛 3 | 🌐 Python | 📅 2023-03-27]
 * \[2017.11] Counting Crowds and Lines with AI \[[Link1](https://blog.dimroc.com/2017/11/19/counting-crowds-and-lines/)] \[[Link2](https://count.dimroc.com/)] \[[Code](https://github.com/dimroc/count) ⭐ 54 | 🐛 2 | 🌐 Swift | 📅 2019-04-27]![GitHub stars](http://img.shields.io/github/stars/dimroc/count.svg?logo=github\&label=Stars)
 * \[Chinese Blog] 人群计数论文解读 \[[Link](https://zhuanlan.zhihu.com/c_1111215695622352896)]
 * \[2019.05] \[Chinese Blog] C^3 Framework系列之一：一个基于PyTorch的开源人群计数框架 \[[Link](https://zhuanlan.zhihu.com/p/65650998)]
 
 ### GT generation
 
-* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 735 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
+* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 735 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 357 | 🐛 17 | 🌐 Python | 📅 2020-09-24]
 
 ### Related Tasks
 
@@ -100,7 +100,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
-* Learning Independent Instance Maps for Crowd Localization \[[paper](https://arxiv.org/abs/2012.04164)] \[[code](https://github.com/taohan10200/IIM) ⭐ 184 | 🐛 30 | 🌐 Python | 📅 2024-11-20]![GitHub stars](http://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github\&label=Stars)
+* Learning Independent Instance Maps for Crowd Localization \[[paper](https://arxiv.org/abs/2012.04164)] \[[code](https://github.com/taohan10200/IIM) ⭐ 183 | 🐛 30 | 🌐 Python | 📅 2024-11-20]![GitHub stars](http://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github\&label=Stars)
 * W-Net: Reinforced U-Net for Density Map Estimation \[[paper](https://arxiv.org/abs/1903.11249)]\[[code](https://github.com/ZhengPeng7/W-Net-Keras) ⭐ 22 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-06-29]![GitHub stars](http://img.shields.io/github/stars/ZhengPeng7/W-Net-Keras.svg?logo=github\&label=Stars)
 * S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking \[[paper](https://arxiv.org/abs/2201.04819)]\[[code](https://github.com/bridgeqiqi/S2FPR) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2023-03-13]![GitHub stars](http://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github\&label=Stars)
 * Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions \[[paper](https://arxiv.org/abs/2005.07097)]\[[code](https://github.com/qingzwang/AudioVisualCrowdCounting) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2022-05-13]![GitHub stars](http://img.shields.io/github/stars/qingzwang/AudioVisualCrowdCounting.svg?logo=github\&label=Stars)
@@ -503,7 +503,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Journal
 
-* <a name="PCC-Net"></a> **\[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) \[[paper](https://arxiv.org/abs/1905.10085)] \[[code](https://github.com/gjy3035/PCC-Net) ⭐ 255 | 🐛 18 | 🌐 Python | 📅 2020-03-12]![GitHub stars](http://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github\&label=Stars)
+* <a name="PCC-Net"></a> **\[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) \[[paper](https://arxiv.org/abs/1905.10085)] \[[code](https://github.com/gjy3035/PCC-Net) ⭐ 256 | 🐛 18 | 🌐 Python | 📅 2020-03-12]![GitHub stars](http://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github\&label=Stars)
 * <a name="SCAR"></a> **\[SCAR]** SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (**Neurocomputing**) \[[paper](https://arxiv.org/abs/1908.03716)]\[[code](https://github.com/gjy3035/SCAR) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2020-02-29]![GitHub stars](http://img.shields.io/github/stars/gjy3035/SCAR.svg?logo=github\&label=Stars)
 * <a name="D-ConvNet"></a> **\[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8850209)]\(extension of [D-ConvNet](#D-ConvNet))\[[Project](https://mmcheng.net/dncl/)]
 * <a name="SL2R"></a>  **\[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) \[[paper](https://arxiv.org/abs/1902.06285)]\(extension of [L2R](#L2R))
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "gjy3035",
                 "repo": "C-3-Framework",
-                "stars": 732,
+                "stars": 733,
                 "topics": [
                   "computer-vision",
                   "crowd-analysis",
@@ -96,7 +96,7 @@
                 "open_issues": 3,
                 "owner": "CommissarMa",
                 "repo": "Crowd_counting_from_scratch",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "computer-vision",
                   "crowd-counting",
@@ -236,7 +236,7 @@
             "open_issues": 30,
             "owner": "taohan10200",
             "repo": "IIM",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "crowd-analysis",
               "crowd-counting",
@@ -3094,7 +3094,7 @@
                 "open_issues": 18,
                 "owner": "gjy3035",
                 "repo": "PCC-Net",
-                "stars": 255,
+                "stars": 256,
                 "topics": [
                   "computer-vision",
                   "crowd-analysis",
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:26:35.479Z",
+    "last_updated": "2026-09-23T22:29:45.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
@@ -3603,7 +3603,7 @@
       "open_issues": 17,
       "owner": "gjy3035",
       "repo": "Awesome-Crowd-Counting",
-      "stars": 2612,
+      "stars": 2613,
       "topics": [
         "computer-vision",
         "crowd-analysis",
