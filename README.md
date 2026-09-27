@@ -71,7 +71,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
 * CLIP-Count: Towards Text-Guided Zero-Shot Object Counting \[[paper](https://arxiv.org/abs/2305.07304)]\[[code](https://github.com/songrise/CLIP-Count) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2024-03-20]
-* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 99 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
+* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 100 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
 * CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward \[[paper](https://arxiv.org/abs/2504.03724)]![GitHub stars](http://img.shields.io/github/stars/yeyimilk/CrowdVLM-R1.svg?logo=github\&label=Stars)
 * L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation \[[paper](https://arxiv.org/abs/2503.12935)]
 * Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization \[[paper](https://arxiv.org/abs/2503.12441)]
@@ -171,7 +171,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 
 * <a name="CrowdDiff"></a>**\[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)]\[[code](https://github.com/dylran/crowddiff) ⭐ 146 | 🐛 19 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github\&label=Stars)
-* <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 127 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
+* <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 128 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
 * <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2025-03-31]
 * <a name="APGCC"></a>**\[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)\[[paper](https://arxiv.org/abs/2405.10589)]\[[code](https://github.com/AaronCIH/APGCC) ⭐ 97 | 🐛 26 | 🌐 Python | 📅 2024-07-31]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github\&label=Stars)
 * <a name="SRN"></a>**\[SAM]** Training-free Object Counting with Prompts (**WACV**)\[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)]\[[code](https://github.com/shizenglin/training-free-object-counter) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2023-12-14]![GitHub stars](http://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
