@@ -993,7 +993,7 @@
                 "open_issues": 8,
                 "owner": "cxliu0",
                 "repo": "PET",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "crowdcounting",
                   "object-counting"
@@ -1017,7 +1017,7 @@
                 "open_issues": 3,
                 "owner": "GuoleiSun",
                 "repo": "Indiscernible-Object-Counting",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:36:22.155Z",
+    "last_updated": "2026-09-28T23:58:41.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
