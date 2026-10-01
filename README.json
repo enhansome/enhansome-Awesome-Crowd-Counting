@@ -2894,7 +2894,7 @@
                 "open_issues": 23,
                 "owner": "zhiheng-ma",
                 "repo": "Bayesian-Crowd-Counting",
-                "stars": 343,
+                "stars": 344,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -2940,7 +2940,7 @@
                 "open_issues": 12,
                 "owner": "xhp-hust-2018-2011",
                 "repo": "S-DCNet",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -2982,7 +2982,7 @@
                 "open_issues": 9,
                 "owner": "Legion56",
                 "repo": "Counting-ICCV-DSSINet",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3094,7 +3094,7 @@
                 "open_issues": 18,
                 "owner": "gjy3035",
                 "repo": "PCC-Net",
-                "stars": 256,
+                "stars": 239,
                 "topics": [
                   "computer-vision",
                   "crowd-analysis",
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:13:57.534Z",
+    "last_updated": "2026-10-01T23:28:54.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
@@ -3603,7 +3603,7 @@
       "open_issues": 17,
       "owner": "gjy3035",
       "repo": "Awesome-Crowd-Counting",
-      "stars": 2614,
+      "stars": 2615,
       "topics": [
         "computer-vision",
         "crowd-analysis",
