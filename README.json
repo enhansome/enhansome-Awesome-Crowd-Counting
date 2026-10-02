@@ -426,7 +426,7 @@
                 "open_issues": 5,
                 "owner": "cha15yq",
                 "repo": "T2ICount",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -990,7 +990,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-11T08:20:01Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "cxliu0",
                 "repo": "PET",
                 "stars": 91,
@@ -1856,7 +1856,7 @@
                 "open_issues": 2,
                 "owner": "HopLee6",
                 "repo": "VSCrowd-Dataset",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:28:54.622Z",
+    "last_updated": "2026-10-02T23:18:30.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
