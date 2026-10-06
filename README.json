@@ -1389,7 +1389,7 @@
                 "open_issues": 17,
                 "owner": "LoraLinH",
                 "repo": "Boosting-Crowd-Counting-via-Multifaceted-Attention",
-                "stars": 125,
+                "stars": 124,
                 "topics": [
                   "computer-vision",
                   "crowd-counting",
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:59:29.585Z",
+    "last_updated": "2026-10-06T10:32:48.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
