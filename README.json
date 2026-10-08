@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "zaki1003",
                 "repo": "YOLO-CROWD",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -1065,7 +1065,7 @@
                 "open_issues": 7,
                 "owner": "cvlab-stonybrook",
                 "repo": "zero-shot-counting",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "class-agnostic-counting",
                   "counting",
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:53:15.313Z",
+    "last_updated": "2026-10-08T23:59:38.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
