@@ -557,7 +557,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-04-02T20:23:47Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "dylran",
                 "repo": "crowddiff",
                 "stars": 146,
@@ -928,7 +928,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-04-02T20:23:47Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "dylran",
                 "repo": "crowddiff",
                 "stars": 146,
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:59:38.721Z",
+    "last_updated": "2026-10-09T23:36:18.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",

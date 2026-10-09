@@ -170,7 +170,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="CrowdDiff"></a>**\[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)]\[[code](https://github.com/dylran/crowddiff) ⭐ 146 | 🐛 19 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github\&label=Stars)
+* <a name="CrowdDiff"></a>**\[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)]\[[code](https://github.com/dylran/crowddiff) ⭐ 146 | 🐛 20 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github\&label=Stars)
 * <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 128 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
 * <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2025-03-31]
 * <a name="APGCC"></a>**\[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)\[[paper](https://arxiv.org/abs/2405.10589)]\[[code](https://github.com/AaronCIH/APGCC) ⭐ 97 | 🐛 26 | 🌐 Python | 📅 2024-07-31]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github\&label=Stars)
@@ -206,7 +206,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="DDC"></a>**\[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)\[[paper](https://arxiv.org/abs/2303.12790)]\[[code](https://github.com/dylran/DiffuseDenoiseCount) ⭐ 146 | 🐛 19 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github\&label=Stars)
+* <a name="DDC"></a>**\[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)\[[paper](https://arxiv.org/abs/2303.12790)]\[[code](https://github.com/dylran/DiffuseDenoiseCount) ⭐ 146 | 🐛 20 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github\&label=Stars)
 * <a name="SAFECount"></a>**\[SAFECount]** Few-Shot Object Counting With Similarity-Aware Feature Enhancement (**WACV**)\[[paper](https://arxiv.org/abs/2201.08959)] \[[code](https://github.com/zhiyuanyou/SAFECount) ⭐ 142 | 🐛 2 | 🌐 Python | 📅 2023-10-10]![GitHub stars](http://img.shields.io/github/stars/zhiyuanyou/SAFECount.svg?logo=github\&label=Stars)
 * <a name="CrowdCLIP"></a>**\[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)\[[paper](https://arxiv.org/abs/2304.04231)]\[[code](https://github.com/dk-liang/CrowdCLIP) ⭐ 93 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-07-28]
 * <a name="PET"></a>**\[PET]** Point-Query Quadtree for Crowd Counting, Localization, and More (**ICCV**)\[[paper](https://arxiv.org/abs/2308.13814)]\[[code](https://github.com/cxliu0/PET) ⭐ 91 | 🐛 9 | 🌐 Python | 📅 2025-04-11]![GitHub stars](http://img.shields.io/github/stars/cxliu0/PET.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
