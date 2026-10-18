@@ -511,7 +511,7 @@
                 "open_issues": 3,
                 "owner": "syhien",
                 "repo": "taste_more_taste_better",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:47:18.630Z",
+    "last_updated": "2026-10-18T21:56:59.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",

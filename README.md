@@ -161,7 +161,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 * <a name="E-MAC"></a>**\[E-MAC]** Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (**ICLR**) \[[paper](https://openreview.net/pdf?id=sY3anJ8C68)]\[[code](https://github.com/mast1ren/E-MAC) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-06-03]
 * <a name="FLE"></a>**\[FLE]** Free Lunch Enhancements for Multi-modal Crowd Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_Free_Lunch_Enhancements_for_Multi-modal_Crowd_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/HenryCilence/Free-Lunch-Multimodal-Counting) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-04-04]
 * <a name="P2R"></a>**\[P2R]** Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2505.21943)]\[[code](https://github.com/Elin24/P2RLoss) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-26]
-* <a name="TMTB"></a>**\[TMTB]** Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2503.17984)]\[[code](https://github.com/syhien/taste_more_taste_better) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2025-07-31]
+* <a name="TMTB"></a>**\[TMTB]** Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2503.17984)]\[[code](https://github.com/syhien/taste_more_taste_better) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2025-07-31]
 * <a name="E-MAC"></a>**\[PML]** Proximal Mapping Loss: Understanding Loss Functions in Crowd Counting & Localization (**ICLR**) \[[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/iclr25-pml.pdf)]\[[code](https://github.com/Elin24/pml) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-05-09]
 * <a name="URM"></a>**\[URM]** Single Domain Generalization for Few-Shot Counting via Universal Representation Matching (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Single_Domain_Generalization_for_Few-Shot_Counting_via_Universal_Representation_Matching_CVPR_2025_paper.pdf)]
 * <a name="OmniCount"></a>**\[OmniCount]** OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)\[[paper](https://arxiv.org/abs/2403.05435)]\[[web](https://mondalanindya.github.io/OmniCount/)]
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
