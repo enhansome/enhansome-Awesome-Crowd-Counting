@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "zaki1003",
                 "repo": "YOLO-CROWD",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:43:56.334Z",
+    "last_updated": "2026-10-21T22:48:48.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",

@@ -35,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 733 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
 * \[[CCLabeler](https://github.com/Elin24/cclabeler) ⭐ 122 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-27] A web tool for labeling pedestrians in an image, which is released. ![GitHub stars](http://img.shields.io/github/stars/Elin24/cclabeler.svg?logo=github\&label=Stars)
-* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 82 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 243 | 🐛 48 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
+* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 83 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 243 | 🐛 48 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
 
 ### Technical blog
 
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
