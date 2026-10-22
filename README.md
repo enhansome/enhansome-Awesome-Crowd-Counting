@@ -71,7 +71,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
 * CLIP-Count: Towards Text-Guided Zero-Shot Object Counting \[[paper](https://arxiv.org/abs/2305.07304)]\[[code](https://github.com/songrise/CLIP-Count) ⭐ 124 | 🐛 8 | 🌐 Python | 📅 2024-03-20]
-* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⭐ 100 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-17] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
+* CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification \[[paper](https://arxiv.org/abs/2403.09281v1)]\[[code](https://github.com/Yiming-M/CLIP-EBC) ⚠️ Archived] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github\&label=Stars)
 * CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward \[[paper](https://arxiv.org/abs/2504.03724)]![GitHub stars](http://img.shields.io/github/stars/yeyimilk/CrowdVLM-R1.svg?logo=github\&label=Stars)
 * L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation \[[paper](https://arxiv.org/abs/2503.12935)]
 * Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization \[[paper](https://arxiv.org/abs/2503.12441)]
@@ -273,7 +273,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 * <a name="PAP"></a>**\[PAP]** Harnessing Perceptual Adversarial Patches for Crowd Counting (**ACM CCS**) \[[paper](https://arxiv.org/abs/2109.07986)] \[[code](https://github.com/shunchang-liu/PAP-Pytorch) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2023-04-28]![GitHub stars](http://img.shields.io/github/stars/shunchang-liu/PAP-Pytorch.svg?logo=github\&label=Stars)
 * <a name="DMBA"></a>**\[DMBA]** Backdoor Attacks on Crowd Counting (**ACM MM**) \[[paper](https://arxiv.org/abs/2205.11398)]\[[code](https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2022-07-10]![GitHub stars](http://img.shields.io/github/stars/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting.svg?logo=github\&label=Stars)
 * <a name="CDCC"></a>**\[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2103.16291)]\[[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2022-05-04]![GitHub stars](http://img.shields.io/github/stars/weizheliu/Cross-Domain-Crowd-Counting.svg?logo=github\&label=Stars)
-* <a name="FusionCount"></a>**\[FusionCount]** FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion (**ICIP**) \[[paper](https://arxiv.org/abs/2202.13660)]\[[code](https://github.com/YimingMa/FusionCount) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-10-25]![GitHub stars](http://img.shields.io/github/stars/YimingMa/FusionCount.svg?logo=github\&label=Stars)
+* <a name="FusionCount"></a>**\[FusionCount]** FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion (**ICIP**) \[[paper](https://arxiv.org/abs/2202.13660)]\[[code](https://github.com/YimingMa/FusionCount) ⚠️ Archived]![GitHub stars](http://img.shields.io/github/stars/YimingMa/FusionCount.svg?logo=github\&label=Stars)
 * <a name="BLA"></a>**\[BLA]** Bi-level Alignment for Cross-Domain Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2205.05844)]\[[code](https://github.com/Yankeegsj/BLA) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2022-03-15]![GitHub stars](http://img.shields.io/github/stars/Yankeegsj/BLA.svg?logo=github\&label=Stars)
 * <a name="LoViTCrowd"></a>**\[LoViTCrowd]** Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**) \[[paper](https://bmvc2022.mpi-inf.mpg.de/0729.pdf)] \[[code](https://github.com/nguyen1312/LoViTCrowd) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2023-02-24]![GitHub stars](http://img.shields.io/github/stars/nguyen1312/LoViTCrowd.svg?logo=github\&label=Stars)
 * <a name="TAFNet"></a>**\[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) \[[paper](https://arxiv.org/abs/2202.08517)]\[[code](https://github.com/TANGHAIHAN/TAFNet) ⭐ 4 | 🐛 1 | 📅 2022-01-25]![GitHub stars](http://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

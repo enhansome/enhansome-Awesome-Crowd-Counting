@@ -194,7 +194,7 @@
               "description": "Yiming-M/CLIP-EBC",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "The official implementation of the crowd counting model CLIP-EBC.",
                 "homepage": null,
                 "id": 769076825,
@@ -1710,7 +1710,7 @@
               "description": "Yiming-M/FusionCount",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Official PyTorch implementation of FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion",
                 "homepage": "https://arxiv.org/abs/2202.13660",
                 "id": 444144848,
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:48:48.735Z",
+    "last_updated": "2026-10-22T22:48:07.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
