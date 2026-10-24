@@ -35,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 * \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 733 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
 * \[[CCLabeler](https://github.com/Elin24/cclabeler) ⭐ 122 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-27] A web tool for labeling pedestrians in an image, which is released. ![GitHub stars](http://img.shields.io/github/stars/Elin24/cclabeler.svg?logo=github\&label=Stars)
-* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 83 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 243 | 🐛 48 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
+* \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 82 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 243 | 🐛 48 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
 
 ### Technical blog
 
@@ -157,7 +157,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 
 * <a name="MDC"></a>**\[MDC]** Video Individual Counting for Moving Drones (**ICCV**)\[[paper](https://arxiv.org/abs/2503.10701)]\[[code](https://github.com/fyw1999/MovingDroneCrowd) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-09-04]
-* <a name="T2ICount"></a>**\[T2ICount]** T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/cha15yq/T2ICount) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2025-04-09]
+* <a name="T2ICount"></a>**\[T2ICount]** T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/cha15yq/T2ICount) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2025-04-09]
 * <a name="E-MAC"></a>**\[E-MAC]** Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (**ICLR**) \[[paper](https://openreview.net/pdf?id=sY3anJ8C68)]\[[code](https://github.com/mast1ren/E-MAC) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-06-03]
 * <a name="FLE"></a>**\[FLE]** Free Lunch Enhancements for Multi-modal Crowd Counting (**CVPR**)\[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_Free_Lunch_Enhancements_for_Multi-modal_Crowd_Counting_CVPR_2025_paper.pdf)]\[[code](https://github.com/HenryCilence/Free-Lunch-Multimodal-Counting) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-04-04]
 * <a name="P2R"></a>**\[P2R]** Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting (**CVPR**)\[[paper](https://arxiv.org/abs/2505.21943)]\[[code](https://github.com/Elin24/P2RLoss) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-26]
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
