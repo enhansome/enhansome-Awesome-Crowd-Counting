@@ -427,7 +427,7 @@
                 "open_issues": 5,
                 "owner": "cha15yq",
                 "repo": "T2ICount",
-                "stars": 29,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -602,7 +602,7 @@
                 "open_issues": 11,
                 "owner": "Shimmer93",
                 "repo": "MPCount",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:16:13.036Z",
+    "last_updated": "2026-10-28T23:39:08.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
