@@ -973,7 +973,7 @@
                 "open_issues": 4,
                 "owner": "dk-liang",
                 "repo": "CrowdCLIP",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:39:08.751Z",
+    "last_updated": "2026-10-29T23:39:12.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",

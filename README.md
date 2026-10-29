@@ -46,7 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### GT generation
 
-* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 735 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 337 | 🐛 17 | 🌐 Python | 📅 2026-10-16]
+* Density Map Generation from Key Points \[[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-05-24] \[[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb) ⭐ 735 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2023-10-19] \[[Fast Python Code](https://github.com/vlad3996/computing-density-maps) ⭐ 52 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-11-03] \[[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py) ⭐ 338 | 🐛 17 | 🌐 Python | 📅 2026-10-16]
 
 ### Related Tasks
 
@@ -208,7 +208,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 * <a name="DDC"></a>**\[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)\[[paper](https://arxiv.org/abs/2303.12790)]\[[code](https://github.com/dylran/DiffuseDenoiseCount) ⭐ 146 | 🐛 20 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github\&label=Stars)
 * <a name="SAFECount"></a>**\[SAFECount]** Few-Shot Object Counting With Similarity-Aware Feature Enhancement (**WACV**)\[[paper](https://arxiv.org/abs/2201.08959)] \[[code](https://github.com/zhiyuanyou/SAFECount) ⭐ 142 | 🐛 2 | 🌐 Python | 📅 2023-10-10]![GitHub stars](http://img.shields.io/github/stars/zhiyuanyou/SAFECount.svg?logo=github\&label=Stars)
-* <a name="CrowdCLIP"></a>**\[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)\[[paper](https://arxiv.org/abs/2304.04231)]\[[code](https://github.com/dk-liang/CrowdCLIP) ⭐ 93 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-07-28]
+* <a name="CrowdCLIP"></a>**\[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)\[[paper](https://arxiv.org/abs/2304.04231)]\[[code](https://github.com/dk-liang/CrowdCLIP) ⭐ 94 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-07-28]
 * <a name="PET"></a>**\[PET]** Point-Query Quadtree for Crowd Counting, Localization, and More (**ICCV**)\[[paper](https://arxiv.org/abs/2308.13814)]\[[code](https://github.com/cxliu0/PET) ⭐ 91 | 🐛 9 | 🌐 Python | 📅 2025-04-11]![GitHub stars](http://img.shields.io/github/stars/cxliu0/PET.svg?logo=github\&label=Stars)
 * <a name="IOCFormer"></a>**\[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)\[[paper](http://arxiv.org/abs/2304.11677)]\[[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting) ⭐ 77 | 🐛 3 | 📅 2026-07-26]![GitHub stars](http://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github\&label=Stars)
 * <a name="PET"></a>**\[STEERER]** STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning (**ICCV**)\[[paper](https://arxiv.org/abs/2308.10468)]\[[code](https://github.com/taohan10200/STEERER) ⭐ 65 | 🐛 7 | 🌐 Python | 📅 2024-03-01]![GitHub stars](http://img.shields.io/github/stars/taohan10200/STEERER.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
