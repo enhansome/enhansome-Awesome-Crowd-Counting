@@ -599,7 +599,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-03-31T18:01:05Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "Shimmer93",
                 "repo": "MPCount",
                 "stars": 98,
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:51:58.612Z",
+    "last_updated": "2026-11-01T23:08:32.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
