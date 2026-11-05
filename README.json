@@ -68,7 +68,7 @@
                 "open_issues": 4,
                 "owner": "zaki1003",
                 "repo": "YOLO-CROWD",
-                "stars": 82,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -1478,7 +1478,7 @@
                 "open_issues": 9,
                 "owner": "taohan10200",
                 "repo": "DRNet",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:13:28.425Z",
+    "last_updated": "2026-11-05T00:33:01.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
