@@ -183,7 +183,7 @@
                 "open_issues": 8,
                 "owner": "songrise",
                 "repo": "CLIP-Count",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:33:01.702Z",
+    "last_updated": "2026-11-06T00:34:24.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
