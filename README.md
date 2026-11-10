@@ -33,7 +33,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Code
 
-* \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 733 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
+* \[[C^3 Framework](https://github.com/gjy3035/C-3-Framework) ⭐ 734 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-03-30] An open-source PyTorch code for crowd counting, which is released. ![GitHub stars](http://img.shields.io/github/stars/gjy3035/C-3-Framework.svg?logo=github\&label=Stars)
 * \[[CCLabeler](https://github.com/Elin24/cclabeler) ⭐ 122 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-27] A web tool for labeling pedestrians in an image, which is released. ![GitHub stars](http://img.shields.io/github/stars/Elin24/cclabeler.svg?logo=github\&label=Stars)
 * \[[YOLO-CROWD](https://github.com/zaki1003/YOLO-CROWD) ⭐ 81 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-11-04] ![GitHub stars](http://img.shields.io/github/stars/zaki1003/YOLO-CROWD.svg?logo=github\&label=Stars) a lightweight crowd counting and face detection model that is based on \[[YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) ⭐ 243 | 🐛 48 | 🌐 Python | 📅 2025-05-22] ![GitHub stars](http://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2.svg?logo=github\&label=Stars)
 
@@ -172,7 +172,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 * <a name="CrowdDiff"></a>**\[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)]\[[code](https://github.com/dylran/crowddiff) ⭐ 146 | 🐛 20 | 🌐 Python | 📅 2024-04-02]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github\&label=Stars)
 * <a name="PseCo"></a>**\[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)]\[[code](https://github.com/Hzzone/PseCo) ⭐ 128 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-11-12]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github\&label=Stars)
-* <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 98 | 🐛 12 | 🌐 Python | 📅 2025-03-31]
+* <a name="MPCount"></a>**\[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) \[[paper](https://arxiv.org/abs/2403.09124)]\[[code](https://github.com/Shimmer93/MPCount) ⭐ 98 | 🐛 11 | 🌐 Python | 📅 2025-03-31]
 * <a name="APGCC"></a>**\[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)\[[paper](https://arxiv.org/abs/2405.10589)]\[[code](https://github.com/AaronCIH/APGCC) ⭐ 97 | 🐛 26 | 🌐 Python | 📅 2024-07-31]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github\&label=Stars)
 * <a name="SRN"></a>**\[SAM]** Training-free Object Counting with Prompts (**WACV**)\[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)]\[[code](https://github.com/shizenglin/training-free-object-counter) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2023-12-14]![GitHub stars](http://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github\&label=Stars)
 * <a name="Gramformer"></a>**\[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**AAAI**) \[[paper](https://arxiv.org/abs/2401.03870)]\[[code](https://github.com/LoraLinH/Gramformer) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2024-09-11]![GitHub stars](http://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github\&label=Stars)
@@ -320,7 +320,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Conference
 
-* <a name="P2PNet"></a>**\[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) \[[paper](https://arxiv.org/abs/2107.12746)]\[[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet) ⭐ 559 | 🐛 74 | 🌐 Python | 📅 2024-05-29]![GitHub stars](http://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-P2PNet.svg?logo=github\&label=Stars)
+* <a name="P2PNet"></a>**\[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) \[[paper](https://arxiv.org/abs/2107.12746)]\[[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet) ⭐ 560 | 🐛 74 | 🌐 Python | 📅 2024-05-29]![GitHub stars](http://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-P2PNet.svg?logo=github\&label=Stars)
 * <a name="STANet"></a> **\[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR**) \[[paper](https://arxiv.org/abs/2105.02440)]\[[code](https://github.com/VisDrone/DroneCrowd) ⭐ 228 | 🐛 18 | 🌐 MATLAB | 📅 2024-07-25]![GitHub stars](http://img.shields.io/github/stars/VisDrone/DroneCrowd.svg?logo=github\&label=Stars)
 * <a name="CFOCNet"></a> **\[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) \[[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]\[[code](https://github.com/SinicaGroup/Class-agnostic-Few-shot-Object-Counting) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2022-09-22]![GitHub stars](http://img.shields.io/github/stars/SinicaGroup/Class-agnostic-Few-shot-Object-Counting.svg?logo=github\&label=Stars)
 * <a name="SASNet"></a> **\[SASNet]** To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI**) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16360)]\[[code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet) ⭐ 91 | 🐛 16 | 🌐 Python | 📅 2021-03-29]![GitHub stars](http://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-SASNet.svg?logo=github\&label=Stars)
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
