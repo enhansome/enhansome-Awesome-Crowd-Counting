@@ -1927,7 +1927,7 @@
                 "open_issues": 74,
                 "owner": "TencentYoutuResearch",
                 "repo": "CrowdCounting-P2PNet",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -2503,7 +2503,7 @@
                 "open_issues": 15,
                 "owner": "cvlab-stonybrook",
                 "repo": "DM-Count",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3149,7 +3149,7 @@
                 "open_issues": 67,
                 "owner": "leeyeehoo",
                 "repo": "CSRNet-pytorch",
-                "stars": 735,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:41:30.595Z",
+    "last_updated": "2026-11-13T00:43:56.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
