@@ -588,27 +588,6 @@
             },
             {
               "node_type": "item",
-              "title": "[MPCount] Single Domain Generalization for Crowd Counting (CVPR) [paper",
-              "description": "Shimmer93/MPCount",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repo for CVPR2024 paper \"Single Domain Generalization for Crowd Counting\"",
-                "homepage": null,
-                "id": 769483792,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-03-31T18:01:05Z",
-                "open_issues": 11,
-                "owner": "Shimmer93",
-                "repo": "MPCount",
-                "stars": 98,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:28:31.646Z"
-            },
-            {
-              "node_type": "item",
               "title": "[APGCC] Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (ECCV)[paper",
               "description": "AaronCIH/APGCC",
               "children": [],
@@ -623,7 +602,7 @@
                 "open_issues": 26,
                 "owner": "AaronCIH",
                 "repo": "APGCC",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "artificial-intelligence",
                   "auxiliary-learning",
@@ -646,6 +625,27 @@
                   "robustness",
                   "stability"
                 ]
+              },
+              "first_seen": "2026-08-29T02:28:31.646Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[MPCount] Single Domain Generalization for Crowd Counting (CVPR) [paper",
+              "description": "Shimmer93/MPCount",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repo for CVPR2024 paper \"Single Domain Generalization for Crowd Counting\"",
+                "homepage": null,
+                "id": 769483792,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-03-31T18:01:05Z",
+                "open_issues": 11,
+                "owner": "Shimmer93",
+                "repo": "MPCount",
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
             },
@@ -1927,7 +1927,7 @@
                 "open_issues": 74,
                 "owner": "TencentYoutuResearch",
                 "repo": "CrowdCounting-P2PNet",
-                "stars": 561,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:27:37.016Z",
+    "last_updated": "2026-11-21T00:58:08.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
