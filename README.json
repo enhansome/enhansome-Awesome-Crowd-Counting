@@ -560,7 +560,7 @@
                 "open_issues": 20,
                 "owner": "dylran",
                 "repo": "crowddiff",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -931,7 +931,7 @@
                 "open_issues": 20,
                 "owner": "dylran",
                 "repo": "crowddiff",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -2449,7 +2449,7 @@
                 "open_issues": 2,
                 "owner": "Zhaoyi-Yan",
                 "repo": "DCANet",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:29:42.993Z",
+    "last_updated": "2026-11-24T04:27:09.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
