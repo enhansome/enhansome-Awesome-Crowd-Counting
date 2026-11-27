@@ -362,7 +362,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 * <a name="DSACA"></a>**\[DSACA]** Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting  (**SPL**) \[[paper](https://ieeexplore.ieee.org/abstract/document/9479708)] \[[code](https://github.com/PRIS-CV/DSACA) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2023-03-15]![GitHub stars](http://img.shields.io/github/stars/PRIS-CV/DSACA.svg?logo=github\&label=Stars)
 * <a name="D2C"></a> **\[D2C]** Decoupled Two-Stage Crowd Counting and Beyond (**TIP**) \[[paper](https://ieeexplore.ieee.org/document/9347700)]\[[code](https://github.com/hustaia/Decoupled_Two-Stage_Counting) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2021-03-18]![GitHub stars](http://img.shields.io/github/stars/hustaia/Decoupled_Two-stage_Counting.svg?logo=github\&label=Stars)
 * <a name="NLT"></a> **\[NLT]** Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting (**T-NNLS**) \[[paper](https://arxiv.org/abs/2004.02133)] [\[code\]](https://github.com/taohan10200/NLT) ⭐ 15 | 🐛 1 | 📅 2021-04-02]![GitHub stars](http://img.shields.io/github/stars/taohan10200/NLT.svg?logo=github\&label=Stars)
-* <a name="DCANet"></a>**\[DCANet]** Towards Learning Multi-domain Crowd Counting (**T-CSVT**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9658506)] \[[code](https://github.com/Zhaoyi-Yan/DCANet) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2023-04-06]![GitHub stars](http://img.shields.io/github/stars/Zhaoyi-Yan/DCANet.svg?logo=github\&label=Stars)
+* <a name="DCANet"></a>**\[DCANet]** Towards Learning Multi-domain Crowd Counting (**T-CSVT**) \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9658506)] \[[code](https://github.com/Zhaoyi-Yan/DCANet) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2023-04-06]![GitHub stars](http://img.shields.io/github/stars/Zhaoyi-Yan/DCANet.svg?logo=github\&label=Stars)
 * <a name="AdaCrowd"></a> **\[AdaCrowd]** AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (**TMM**) \[[paper](https://arxiv.org/abs/2010.12141)]\[[code](https://github.com/maheshkkumar/adacrowd) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2021-02-24]![GitHub stars](http://img.shields.io/github/stars/maheshkkumar/adacrowd.svg?logo=github\&label=Stars)
 * <a name="LA-Batch"></a>**\[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI**) \[[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 * <a name="DACC"></a> **\[DACC]** Domain-Adaptive Crowd Counting via High-Quality Image Translation and Density Reconstruction (**T-NNLS**) \[[paper](https://arxiv.org/abs/1912.03677)]
@@ -939,4 +939,4 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

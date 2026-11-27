@@ -2449,7 +2449,7 @@
                 "open_issues": 2,
                 "owner": "Zhaoyi-Yan",
                 "repo": "DCANet",
-                "stars": 14,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:31.646Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:29:04.409Z",
+    "last_updated": "2026-11-27T02:27:29.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Crowd Counting",
